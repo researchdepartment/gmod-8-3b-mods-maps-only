@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "FFmdls/Breen/Breen_face"
+	"$bumpmap" "FFmdls/Breen/breen_head_normal"
+	"$halflambert" 1
+}

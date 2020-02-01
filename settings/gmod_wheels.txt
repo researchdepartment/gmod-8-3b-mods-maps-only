@@ -1,0 +1,142 @@
+// rotations are done in xyz order
+
+"gmod_wheels.txt"
+{
+	"Saw Blade"
+	{
+	 	"gm_wheel_model"		"models/props_junk/sawblade001a.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	
+	"Car Wheel"
+	{
+	 	"gm_wheel_model"		"models/props_vehicles/carparts_wheel01a.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"90"
+	}
+	
+	"APC Wheel"
+	{
+	
+	 	"gm_wheel_model"		"models/props_vehicles/apc_tire001.mdl"
+	 	"gm_wheel_rx"		"0"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	
+	
+	"Tractor Wheel"
+	{
+	
+	 	"gm_wheel_model"		"models/props_vehicles/tire001a_tractor.mdl"
+	 	"gm_wheel_rx"		"0"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Car Tire"
+	{
+	
+	 	"gm_wheel_model"		"models/props_vehicles/tire001c_car.mdl"
+	 	"gm_wheel_rx"		"0"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	
+	
+
+	"Blue Barrel"
+	{
+	
+	 	"gm_wheel_model"		"models/props_borealis/bluebarrel001.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	
+	"Oil Drum"
+	{
+	
+	 	"gm_wheel_model"		"models/props_c17/oildrum001.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	
+	"Carousel"
+	{
+	
+	 	"gm_wheel_model"		"models/props_c17/playground_carousel01.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	
+	
+	"Propeller Blade"
+	{
+	 	"gm_wheel_model"		"models\props_c17\TrapPropeller_Blade.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Truck Wheel"
+	{
+	 	"gm_wheel_model"		"models/rigwheel.mdl"
+	 	"gm_wheel_rx"		"0"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Beetle Wheel"
+	{
+	 	"gm_wheel_model"		"models/bwheel.mdl"
+	 	"gm_wheel_rx"		"180"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"BMWWHEEL"
+	{
+	 	"gm_wheel_model"		"models/bmwwheel.mdl"
+	 	"gm_wheel_rx"		"180"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Monster Wheel"
+	{
+	 	"gm_wheel_model"		"models/mtwheel.mdl"
+	 	"gm_wheel_rx"		"180"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"4X4 Wheel"
+	{
+	 	"gm_wheel_model"		"models/4wheel.mdl"
+	 	"gm_wheel_rx"		"180"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Mini Wheel"
+	{
+	 	"gm_wheel_model"		"models/mwheel.mdl"
+	 	"gm_wheel_rx"		"180"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"MEGA ROLLER"
+	{
+	 	"gm_wheel_model"		"models/roller2/roller2.mdl"
+	 	"gm_wheel_rx"		"0"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+}

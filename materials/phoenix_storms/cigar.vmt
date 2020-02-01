@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "phoenix_storms/cigar"
+	"$surfaceprop" "paper"
+	"$selfillum" 0
+	"$model" 1
+}
+
+

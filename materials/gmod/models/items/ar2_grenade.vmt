@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\items\ar2_grenade"
+	"$vertexalpha" 1
+}

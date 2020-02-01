@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\effects\splodeglass"
+	"$vertexalpha" 1
+}

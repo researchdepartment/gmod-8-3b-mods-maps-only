@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "mini/tex2"
+	$envmap env_cubemap
+	$envmapmask "mini/mini1c"
+	$envmapcontrast 1
+        $model 1
+}

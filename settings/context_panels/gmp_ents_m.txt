@@ -1,0 +1,20 @@
+"gmp_ents_m"
+{
+	"title"				"GmodPlus - Misc Entities"
+	
+	"controls"
+	{
+
+		"button"
+		{
+		  	"label"			"Dynamic Door (Lever)"
+	  	  	"command"		"gm_makeentity gmp_misc/door1"
+		}
+		"button"
+		{
+		  	"label"			"Dynamic Door (Pushbar)"
+	  	  	"command"		"gm_makeentity gmp_misc/door2"
+		}
+
+	}
+}

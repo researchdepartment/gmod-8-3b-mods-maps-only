@@ -1,0 +1,11 @@
+"phys_keepupright"
+{
+	"classname"			"phys_keepupright"
+	"type"				"prop"
+	"keyvalues"
+	{
+		"targetname"		"phys_keepupright"
+		"angularlimit"		"100000000.00"
+		"attach1"		"!picker"
+	}
+}

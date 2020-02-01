@@ -1,0 +1,18 @@
+"Stealth"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/garbage_glassbottle003a.mdl"
+	"health" "10"
+	"rendercolor" "25 0 100"
+	"renderamt" "150"
+	"MaterialOverride" "gmod/shiny"
+
+	"OnBreak" "!activator,addoutput,MaterialOverride Models/effects/vol_light001"
+	"OnBreak" "!activator,color,0"
+	"OnBreak" "!activator,addoutput,MaterialOverride debug/env_cubemap_model,180"
+	"OnBreak" "!activator,color,255+255+255,180"
+	}
+}

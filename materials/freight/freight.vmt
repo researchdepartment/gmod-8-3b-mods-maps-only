@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "freight/freight"
+        $model 1
+}

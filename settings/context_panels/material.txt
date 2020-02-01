@@ -1,0 +1,59 @@
+"material"
+{
+	"title"				"Material Settings"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+		  	"label"			"Default Materials"
+		  	"tall"			"15"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Gmod Materials"
+	  	  	"name"			"gm_matmode"
+	  	  	"kvfile"		"settings/gmp_materials0.txt"
+	  	  	"OpenOffsetY"	"-200"
+		}
+		"smalltext"
+		{
+		  	"label"			"[+] Metals"
+		  	"tall"			"15"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"[+] Materials1"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_materials1.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+		"smalltext"
+		{
+		  	"label"			"[+] Building Materials"
+		  	"tall"			"15"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"[+] Materials3"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_materials3.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+		"smalltext"
+		{
+		  	"label"			"[+] Misc"
+		  	"tall"			"15"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"[+] Materials2"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_materials2.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+	}
+}

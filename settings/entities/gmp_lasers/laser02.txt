@@ -1,0 +1,22 @@
+"Jeep"
+{
+	"classname"			"env_laser"
+	"type"				"effect"
+	
+	"keyvalues"
+	{
+	"renderamt" "100"
+	"rendercolor" "255 255 255"
+	"texture" "sprites/laserbeam.spr"
+	"TextureScroll" "35"
+	"targetname" "gmp_laser02"
+	"parentname" ""
+	"damage" "9999"
+	"spawnflags" "1"
+	"width" "2"
+	"dissolvetype" "None"
+	"EndSprite" ""
+	"LaserTarget" "gmp_lasertarget02"
+	"origin" "0 0 0"
+	}
+}

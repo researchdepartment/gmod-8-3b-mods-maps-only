@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_animated_breakable\smokestack"
+	"$vertexalpha" 1
+}

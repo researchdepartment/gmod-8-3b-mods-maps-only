@@ -1,0 +1,48 @@
+"gmp_proptools"
+{
+	"title"				"GmodPlus - Prop tools"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+			"name"			"helptext"
+		  	"label"			"Cheats has to be on for these to work."
+		  	"tall"			"14"
+		}
+		"button"
+		{
+		  	"label"			"Apply Keep-up-right (admin only)"
+	  	  	"command"		"gm_makeentity phys_keepupright"
+		}
+		"button"
+		{
+		  	"label"			"Add button base code"
+	  	  	"command"		"exec GmodPlus/buttonbasecode.cfg"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"propskin"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_prop_skin.txt"
+	  	  	"OpenOffsetY"	"-350"
+	  	  	"multisetting"	"1"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Damagescale"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_prop_damage.txt"
+	  	  	"OpenOffsetY"	"-150"
+	  	  	"multisetting"	"1"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Health"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_prop_health.txt"
+	  	  	"OpenOffsetY"	"-350"
+	  	  	"multisetting"	"1"
+		}
+	}
+}

@@ -1,0 +1,104 @@
+"gmp_help"
+{
+	"title"				"Frequently Asked Questions"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+			"name"			"1"
+		  	"label"			"Q: My Thrusters doesn't work!"
+		  	"tall"			"16"
+		}
+		"smalltext"
+		{
+			"name"			"2"
+		  	"label"			"A: This might be because GmodPlus didn't execute the files properly. To execute the files, press the 'Reload GmodPlus' button in the main GmodPlus menu. To later correct this problem, you can copy the cfg folder from ./mods/GmodPlus/ into the -modcache folder."
+		  	"tall"			"128"
+		}
+		"smalltext"
+		{
+			"name"			"3"
+		  	"label"			"Q: How do I use the extra thruster sets?"
+		  	"tall"			"16"
+		}
+		"smalltext"
+		{
+			"name"			"4"
+		  	"label"			"A: In the thruster menu, click one of the thrustersets buttons (1-10), then spawn the thrusters as usual. This will also switch the controls on your keypad to the current thrusterset."
+		  	"tall"			"100"
+		}
+		"smalltext"
+		{
+			"name"			"5"
+		  	"label"			"Q: How do I use the laser menu?"
+		  	"tall"			"16"
+		}
+		"smalltext"
+		{
+			"name"			"6"
+		  	"label"			"A: First, select the laser ID 00. Aim at an empty place on the floor, and press 'Create Startpoint'. Then aim at another empty spot, and press 'Create Endpoint'. You can now use the physgun (Blue) to move the two points. To use the 'Parent Laser to prop', aim at a prop and press the button. (Avoid picking up the start/end-points with the physgun after this!) The other settings and keys are pretty much self-explanationary. (Please note that all use of the laser menu requires cheats to be on!)"
+		  	"tall"			"200"
+		}
+		"smalltext"
+		{
+			"name"			"7"
+		  	"label"			"Q: Why is there an empty button in the menu? Is something wrong?"
+		  	"tall"			"32"
+		}
+		"smalltext"
+		{
+			"name"			"8"
+		  	"label"			"A: Don't worry, nothing is wrong. This button was supposed to be for punishing players, but I never added that. The reason it's still there is because I decided to keep it incase I would insert something else there instead."
+		  	"tall"			"100"
+		}
+		"smalltext"
+		{
+			"name"			"9"
+		  	"label"			"Q: How can I use the Tools-Shortcuts, and what keys are they?"
+		  	"tall"			"32"
+		}
+		"smalltext"
+		{
+			"name"			"10"
+		  	"label"			"A: Go to the main GmP (GmodPlus) menu, go into 'Settings', then click the 'Tools / Weapons' button to toggle the mode. The keys are as follows 1:Rope 2:Weld 3:Easy-weld 4:Axisweld 5:Ballsocket 6:Easy-Ballsocket 7:Elastic INSERT:Wheelgun HOME:Thrusters END:No-collision DELETE:Remover"
+		  	"tall"			"128"
+		}
+		"smalltext"
+		{
+			"name"			"11"
+		  	"label"			"Q: I have this wierd text in the upper-left corner, how do I remove that?"
+		  	"tall"			"32"
+		}
+		"smalltext"
+		{
+			"name"			"12"
+		  	"label"			"A: Go to the main GmP (GmodPlus) menu, press on 'Settings'. Then change the slider saying 'Developer mode' to 0"
+		  	"tall"			"48"
+		}
+		"smalltext"
+		{
+			"name"			"13"
+		  	"label"			"Q: The NPC controls dont work. Why?"
+		  	"tall"			"16"
+		}
+		"smalltext"
+		{
+			"name"			"14"
+		  	"label"			"A: All of the NPC controls requires cheats to be on, and that the GmodPlus files is loaded. (Please note that the NPC Controls are no longer supported. - They might not work!)"
+		  	"tall"			"75"
+		}
+		"smalltext"
+		{
+			"name"			"15"
+		  	"label"			"Q: Gmod crashes when I use phys-props?"
+		  	"tall"			"16"
+		}
+		"smalltext"
+		{
+			"name"			"16"
+		  	"label"			"A: Copy the GmodPlus scripts folder from ./mods/GmodPlus/ to into the -modcache folder."
+		  	"tall"			"48"
+		}
+	}
+}

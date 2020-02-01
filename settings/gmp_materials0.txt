@@ -1,0 +1,77 @@
+// .vmf files!
+
+"gmp_materials1.txt"
+{
+	"Wireframe (buggy)"
+	{
+		"gm_matmode" "0"
+	}
+	"EnvCubeMap"
+	{
+		"gm_matmode" "1"
+	}
+	"Water"
+	{
+		"gm_matmode" "2"
+	}
+	"Jelly"
+	{
+		"gm_matmode" "3"
+	}
+	"Stained Glass"
+	{
+		"gm_matmode" "4"
+	}
+	"Shiny White"
+	{
+		"gm_matmode" "5"
+	}
+	"Matte White"
+	{
+		"gm_matmode" "6"
+	}
+	"Combine Ball"
+	{
+		"gm_matmode" "7"
+	}
+	"Combine Ball 2"
+	{
+		"gm_matmode" "8"
+	}
+	"Blue Glow"
+	{
+		"gm_matmode" "9"
+	}
+	"Volume-Light"
+	{
+		"gm_matmode" "10"
+	}
+	"Combine Stasis"
+	{
+		"gm_matmode" "11"
+	}
+	"Combine Funnel"
+	{
+		"gm_matmode" "12"
+	}
+	"Combine Shield"
+	{
+		"gm_matmode" "13"
+	}
+	"Frosted Glass"
+	{
+		"gm_matmode" "14"
+	}
+	"Tank Glass"
+	{
+		"gm_matmode" "15"
+	}
+	"tprings_globe"
+	{
+		"gm_matmode" "16"
+	}
+	"Render Target"
+	{
+		"gm_matmode" "17"
+	}
+}

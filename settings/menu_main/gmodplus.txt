@@ -1,0 +1,17 @@
+
+// this creates the main buttons for the MAIN menu
+
+// 
+// ~ = label
+// # = twice the size
+//
+
+// Adding this line will clear everything in the menu up until this point and start fresh.
+// You should put it at the top of your spawn menu only if you want to override EVERY button.
+//
+// "clear"				"1"
+
+"menu"
+{
+	"GmodPlus"				"gm_context gmodplus"
+}

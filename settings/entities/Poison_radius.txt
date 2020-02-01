@@ -1,0 +1,13 @@
+"Poison"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/GlassBottle01a.mdl"
+	"health" "10"
+	"rendercolor" "0"
+	"radius" "10000"
+	"OnBreak" "!activator,sethealth,0,5,-1"
+	}
+}

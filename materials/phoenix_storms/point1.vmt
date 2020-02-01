@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "phoenix_storms/point1"
+	"$surfaceprop" "paper"
+	"$selfillum" 0
+	"$model" 1
+}
+
+

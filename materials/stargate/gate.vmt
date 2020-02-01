@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "stargate/gate"
+	"$bumpmap" "stargate/gate_bump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ .5 .5 .6 ]"
+	"$selfillum" 1
+}

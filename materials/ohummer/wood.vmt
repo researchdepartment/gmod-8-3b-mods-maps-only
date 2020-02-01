@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "ohummer/wood"
+        $model 1
+}

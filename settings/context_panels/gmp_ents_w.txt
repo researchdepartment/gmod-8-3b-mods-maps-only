@@ -1,0 +1,58 @@
+"gmp_ents_w"
+{
+	"title"				"GmodPlus - Weapons"
+	
+	"controls"
+	{
+		"button"
+		{
+		  	"label"			"Crowbar"
+	  	  	"command"		"gm_makeentity gmp_weapons/crowbar"
+		}
+		"button"
+		{
+		  	"label"			"Stunstick"
+	  	  	"command"		"gm_makeentity gmp_weapons/stunstick"
+		}
+		"button"
+		{
+		  	"label"			"Pistol"
+	  	  	"command"		"gm_makeentity gmp_weapons/pistol"
+		}
+		"button"
+		{
+		  	"label"			"357 Magnum"
+	  	  	"command"		"gm_makeentity gmp_weapons/357"
+		}
+		"button"
+		{
+		  	"label"			"SMG"
+	  	  	"command"		"gm_makeentity gmp_weapons/smg1"
+		}
+		"button"
+		{
+		  	"label"			"Pulse rifle"
+	  	  	"command"		"gm_makeentity gmp_weapons/ar2"
+		}
+		"button"
+		{
+		  	"label"			"Shotgun"
+	  	  	"command"		"gm_makeentity gmp_weapons/shotgun"
+		}
+		"button"
+		{
+		  	"label"			"Crossbow"
+	  	  	"command"		"gm_makeentity gmp_weapons/crossbow"
+		}
+		"button"
+		{
+		  	"label"			"Grenade"
+	  	  	"command"		"gm_makeentity gmp_weapons/grenade"
+		}
+		"button"
+		{
+		  	"label"			"RPG"
+	  	  	"command"		"gm_makeentity gmp_weapons/rpg"
+		}
+	}
+}

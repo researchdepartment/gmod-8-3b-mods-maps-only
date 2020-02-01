@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "enzo/tex2"
+        $model 1
+}

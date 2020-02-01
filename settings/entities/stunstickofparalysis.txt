@@ -1,0 +1,17 @@
+"Stunstick"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model" "models/weapons/w_stunbaton.mdl"
+	"rendercolor" "255 255 255"
+	"spawnflags" "256"
+
+	"physdamagescale" "1000"
+	"OnHealthChanged" "!activator,fireuser2,1,0.3"
+	"Materialoverride" "models/props_combine/combinethumper002"
+
+	}
+}

@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_box_buckshot"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

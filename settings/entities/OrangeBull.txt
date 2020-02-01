@@ -1,0 +1,27 @@
+"OrangeBull"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/garbage_glassbottle001a.mdl"
+	"health" "10"
+	"rendercolor" "255 100"
+	"MaterialOverride" "gmod/shiny"
+
+	"onbreak" "!activator,addoutput,gravity -1"
+	"onbreak" "!activator,sethealth,1"
+	"onbreak" "!activator,sethealth,100,0.2"
+	"onbreak" "!activator,addoutput,gravity 0.1,1"
+	"onbreak" "!activator,addoutput,gravity 0.2,2"
+	"onbreak" "!activator,addoutput,gravity 0.3,3"
+	"onbreak" "!activator,addoutput,gravity 0.4,4"
+	"onbreak" "!activator,addoutput,gravity 0.5,5"
+	"onbreak" "!activator,addoutput,gravity 0.6,6"
+	"onbreak" "!activator,addoutput,gravity 0.7,7"
+	"onbreak" "!activator,addoutput,gravity 0.8,8"
+	"onbreak" "!activator,addoutput,gravity 0.9,9"
+	"onbreak" "!activator,addoutput,gravity 1,10"
+
+	}
+}

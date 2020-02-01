@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "skate/skate"
+        $model 1
+}

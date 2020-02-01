@@ -1,0 +1,16 @@
+"Dagger"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model" "models/weapons/w_knife_t.mdl"
+	"rendercolor" "255 100 100"
+
+	"physdamagescale" "1000"
+	"onhealthchanged" "!activator,fireuser3,1"
+	"MaterialOverride" "models/props_combine/metal_combinebridge001"
+
+	}
+}

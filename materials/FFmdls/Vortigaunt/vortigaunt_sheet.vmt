@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "FFmdls/Vortigaunt/vortigaunt_sheet"
+	"$bumpmap" "FFmdls/Vortigaunt/vortigaunt_normal"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" "1"
+//	"$envmaptint" "[.5 .5 .5]"
+}

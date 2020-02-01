@@ -1,0 +1,13 @@
+ "VertexLitGeneric"
+ {
+  "$baseTexture" "tvs/corpse"
+  "Proxies" 
+       { 
+         "AnimatedTexture" 
+         { 
+            "animatedTextureVar" "$basetexture" 
+            "animatedTextureFrameNumVar" "$frame" 
+            "animatedTextureFrameRate" "20" 
+         }
+    } 
+ }

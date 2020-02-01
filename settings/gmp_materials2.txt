@@ -1,0 +1,61 @@
+// .vmf files!
+
+"gmp_materials2.txt"
+{
+	"Rockcliff 1"
+	{
+		"gm_matmode" "32"
+	}
+	"Rockcliff 2"
+	{
+		"gm_matmode" "33"
+	}
+	"Rockcliff 3"
+	{
+		"gm_matmode" "34"
+	}
+	"Rockcliff 4"
+	{
+		"gm_matmode" "35"
+	}
+	"Woodfence"
+	{
+		"gm_matmode" "36"
+	}
+	"Dirtwall"
+	{
+		"gm_matmode" "37"
+	}
+	"Oaktree"
+	{
+		"gm_matmode" "38"
+	}
+	"Combine Thumper"
+	{
+		"gm_matmode" "39"
+	}
+	"Combine tprotato"
+	{
+		"gm_matmode" "40"
+	}
+	"Combine Pipe"
+	{
+		"gm_matmode" "41"
+	}
+	"Advisor body"
+	{
+		"gm_matmode" "42"
+	}
+	"Fabric Red"
+	{
+		"gm_matmode" "43"
+	}
+	"Fabric Blue"
+	{
+		"gm_matmode" "44"
+	}
+	"Chairchrome"
+	{
+		"gm_matmode" "55"
+	}
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "FFmdls/Gman/gman_sheet"
+	"$halflambert" 1
+}

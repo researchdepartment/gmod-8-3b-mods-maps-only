@@ -1,0 +1,5 @@
+"UnlitGeneric" 
+{ 
+	"$baseTexture" "gmod\models\weapons\W_missile_closed" 
+	"$vertexalpha" 1 
+} 

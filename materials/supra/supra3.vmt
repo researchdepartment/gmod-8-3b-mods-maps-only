@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "supra/supra3"
+        $model 1
+}

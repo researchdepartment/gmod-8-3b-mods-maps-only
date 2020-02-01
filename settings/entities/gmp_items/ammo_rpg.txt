@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_rpg_round"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

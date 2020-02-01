@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "d90/tex2"
+        $model 1
+}

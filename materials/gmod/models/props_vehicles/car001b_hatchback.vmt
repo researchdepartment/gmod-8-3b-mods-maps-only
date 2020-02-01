@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/props_vehicles/car001b_hatchback"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,17 @@
+
+// Please Please Please Please Please Create your own category for maps
+// for your mimimod - overriding this file will cause a shit load of 
+// problems for me (and probably you) in later updates.
+
+// Simply name your levels file <yourmodname>.txt
+
+"gm_hugeexmap_v2c"
+{
+	"gm_hugeexmap_v2c"
+	{
+		"map"		"gm_hugeexmap_v2c"
+		"material"	"vgui/chapters/gm_hugeexmap_v2c"
+		"credits"	"Exitus"
+	}
+
+}

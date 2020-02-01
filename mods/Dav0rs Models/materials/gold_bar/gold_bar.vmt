@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gold_bar/gold_bar"
+        "$envmapcontrast" 0
+   	"$envmapsaturation" 0
+ 	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.3098 0.3098 0.3098 ]"
+}

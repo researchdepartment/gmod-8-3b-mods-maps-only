@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "komatsu/komatsu3"
+        $model 1
+}

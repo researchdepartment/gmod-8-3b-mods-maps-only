@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "phoenix_storms/white"
+	"$surfaceprop" "concrete"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ .05 .05 .05 ]"
+	"$selfillum" 0
+	"$model" 1
+}
+
+

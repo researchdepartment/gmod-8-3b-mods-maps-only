@@ -1,0 +1,61 @@
+// .vmf files!
+
+"gmp_npcspawner.txt"
+{
+	"Make Spawner - Antlion"
+	{
+		"gm_makeentity" "gmp_npc/antlion"
+	}
+	"Make Spawner - Antlionguard"
+	{
+		"gm_makeentity" "gmp_npc/antlionguard"
+	}
+	"Make Spawner - Combine (smg1)"
+	{
+		"gm_makeentity" "gmp_npc/combine"
+	}
+	"Make Spawner - Combine_p (shotgun)"
+	{
+		"gm_makeentity" "gmp_npc/combine_p"
+	}
+	"Make Spawner - Combine_e (ar2)"
+	{
+		"gm_makeentity" "gmp_npc/combine_e"
+	}
+	"Make Spawner - Zombie"
+	{
+		"gm_makeentity" "gmp_npc/zombie"
+	}
+	"Make Spawner - Fast zombie"
+	{
+		"gm_makeentity" "gmp_npc/fastzombie"
+	}
+	"Make Spawner - Poison zombie"
+	{
+		"gm_makeentity" "gmp_npc/poisonzombie"
+	}
+	"Make Spawner - Headcrab"
+	{
+		"gm_makeentity" "gmp_npc/headcrab"
+	}
+	"Make Spawner - Poison headcrab"
+	{
+		"gm_makeentity" "gmp_npc/headcrab_black"
+	}
+	"Make Spawner - Fast headcrab"
+	{
+		"gm_makeentity" "gmp_npc/headcrab_fast"
+	}
+	"Make Spawner - Manhack"
+	{
+		"gm_makeentity" "gmp_npc/manhack"
+	}
+	"Make Spawner - Metro police (pistol)"
+	{
+		"gm_makeentity" "gmp_npc/metropolice"
+	}
+	"Make Spawner - Metro cop (stunstick)"
+	{
+		"gm_makeentity" "gmp_npc/metropolice2"
+	}
+}

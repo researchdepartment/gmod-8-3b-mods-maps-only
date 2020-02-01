@@ -1,0 +1,37 @@
+
+// BOOM BIDDY BOOM BOOM!!!
+
+// these can be found, added from and edited in 'surfaceproperties.txt'
+
+"gmod_physproperties.txt"
+{
+	"Rubber Ball"				"gm_bouncy1"
+	"Tennis Ball"				"gm_bouncy2"
+	"Polished Metal"			"gm_lowfriction1"
+	"Ice on Ice"				"gm_lowfriction2"
+	"Solid Metal"				"solidmetal"
+	"Floats"					"gm_halfwaterdensity"
+	"[+] Reset to Default"				"default"
+	"[+] - Flubber -"				"gmp_flubber"
+	"[+] Density, High"				"gmp_density_high"
+	"[+] Density, Normal"				"gmp_density_normal"
+	"[+] Density, Medium"				"gmp_density_medium"
+	"[+] Density, Low"				"gmp_density_low"
+
+	"[+] Friction, Super!"				"gmp_friction_super"
+	"[+] Friction, High"				"gmp_friction_high"
+	"[+] Friction, Normal"				"gmp_friction_normal"
+	"[+] Friction, Medium"				"gmp_friction_medium"
+	"[+] Friction, Low"				"gmp_friction_low"
+	"[+] Friction, Negative"				"gmp_friction_negative"
+
+	"[+] Elasticity, High"				"gmp_bounce_high"
+	"[+] Elasticity, Medium"				"gmp_bounce_normal"
+	"[+] Elasticity, Low"				"gmp_bounce_medium"
+	"[+] Elasticity, Normal"				"gmp_bounce_low"
+
+	"[+] Dampening, High"				"gmp_dampening_high"
+	"[+] Dampening, Medium"				"gmp_dampening_normal"
+	"[+] Dampening, Low"				"gmp_dampening_medium"
+	"[+] Dampening, Normal"				"gmp_dampening_low"
+}

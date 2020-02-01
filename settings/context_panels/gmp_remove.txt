@@ -1,0 +1,114 @@
+"gmp_remove"
+{
+	"title"				"GmodPlus - Removal"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+			"name"			"helptext"
+		  	"label"			"Cheats has to be on for these to work."
+		  	"tall"			"20"
+		}
+		"button"
+		{
+		  	"label"			"- Clear map -"
+	  	  	"command"		"exec GmodPlus/clearall.cfg"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Props"
+	  	  	"command"		"sv_cheats 1; ent_remove_all prop_physics; say Removing all props; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Balloons"
+	  	  	"command"		"sv_cheats 1; ent_remove_all physics_balloon; say Removing all balloons; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Thrusters"
+	  	  	"command"		"sv_cheats 1; ent_remove_all physics_thruster; say Removing all thrusters; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Sprites and Effects"
+	  	  	"command"		"sv_cheats 1; ent_remove_all prop_placement; say Removing all placements; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Ragdolls"
+	  	  	"command"		"sv_cheats 1; ent_remove_all prop_ragdoll; say Removing all ragdolls; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: hl2mp_ragdolls"
+	  	  	"command"		"sv_cheats 1; ent_remove_all hl2mp_ragdoll; say Removing all hl2mp_ragdolls; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Physboxes"
+	  	  	"command"		"sv_cheats 1; ent_remove_all func_physbox; say Removing all physboxes; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Ropes"
+	  	  	"command"		"sv_cheats 1; ent_remove_all keyframe_rope; say Removing all ropes; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Emitters"
+	  	  	"command"		"sv_cheats 1; ent_remove_all prop_emitter; say Removing all emitters; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Smoketrails"
+	  	  	"command"		"sv_cheats 1; ent_remove_all env_smoketrail; say Removing all smoketrails; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Firetrails"
+	  	  	"command"		"sv_cheats 1; ent_remove_all env_fire_trail; say Removing all firetrails; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Flares"
+	  	  	"command"		"sv_cheats 1; ent_remove_all env_flare; say Removing all flares; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Fires"
+	  	  	"command"		"sv_cheats 1; ent_remove_all entityflame; say Removing all fires; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Sparklers"
+	  	  	"command"		"sv_cheats 1; ent_remove_all env_spark; say Removing all sparklers; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Dynamites"
+	  	  	"command"		"sv_cheats 1; ent_remove_all prop_timedexplosion; say Removing all Dynamites; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: NPCs"
+	  	  	"command"		"exec GmodPlus/NPC/removeall.cfg"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Vehicles"
+	  	  	"command"		"sv_cheats 1; ent_remove_all prop_vehicle_airboat; ent_remove_all prop_vehicle_jeep; ent_remove_all prop_vehicle_prisoner_pod; say Removing all Vehicles; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Items and Ammo"
+	  	  	"command"		"sv_cheats 1; ent_remove_all item_ammo_357; ent_remove_all item_ammo_ar2; ent_remove_all item_ammo_ar2_altfire; ent_remove_all item_ammo_crossbow; ent_remove_all item_ammo_pistol; ent_remove_all item_rpg_round; ent_remove_all item_box_buckshot; ent_remove_all item_ammo_smg1; ent_remove_all item_ammo_smg1_grenade; ent_remove_all item_battery; ent_remove_all item_healthcharger; ent_remove_all item_healthkit; ent_remove_all item_healthvial; ent_remove_all item_suitcharger; say Removing all Items and Ammo; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove all: Weapons"
+	  	  	"command"		"sv_cheats 1; ent_remove_all weapon_357; ent_remove_all weapon_ar2; ent_remove_all weapon_crossbow; ent_remove_all weapon_crowbar; ent_remove_all weapon_frag; ent_remove_all weapon_pistol; ent_remove_all weapon_rpg; ent_remove_all weapon_shotgun; ent_remove_all weapon_slam; ent_remove_all weapon_smg1; ent_remove_all weapon_stunstick; say Removing all Weapons; sv_cheats 0"
+		}
+	}
+}

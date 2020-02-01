@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/props_vehicles/carparts_tire01a"
+	"$vertexalpha" 1
+}

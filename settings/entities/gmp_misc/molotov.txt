@@ -1,0 +1,20 @@
+"Jeep"
+{
+	"classname"			"prop_physics_override"
+	"type"				"effect"
+	"keyvalues"
+	{
+	"spawnflags" "256"
+	"physdamagescale" "0.1"
+	"inertiaScale" "1.0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_junk/GlassBottle01a.mdl"
+	"health" "30"
+	"ExplodeDamage" "25"
+	"ExplodeRadius" "400"
+
+		"OnPhysGunPickup" "!self,Ignite,,0,-1"
+		"OnBreak" "!activator,Ignite,,0,-1"
+	}
+}

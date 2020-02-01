@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "bmwm3/tex2"
+	$envmap env_cubemap
+	$envmapmask "bmwm3/bmwm3c"
+	$envmapcontrast 1
+        $model 1
+}

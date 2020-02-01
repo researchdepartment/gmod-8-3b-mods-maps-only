@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "ctruck/tex2"
+        $model 1
+}

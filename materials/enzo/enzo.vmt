@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "enzo/enzo"
+	$envmap env_cubemap
+	$envmapmask "enzo/enzo4"
+	$envmapcontrast 1
+        $model 1
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui/chapters/dm_lockdown"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,32 @@
+"deadmanbomb2"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model"			"models/props_junk/garbage_glassbottle002a.mdl"
+	"health"		"1000"
+	"physdamagescale"	"0.01"
+	"rendercolor"		"255 255 255"
+	"explodedamage"		"500"
+	"exploderadius"		"500"
+	"spawnflags"		"256"
+	"targetname"		"deadmanbomb2_unarmed"
+
+	"Onplayeruse"		"deadmanbomb2_armed,addoutput,targetname deadmanbomb2_standby"
+	"onplayeruse"		"deadmanbomb2_unarmed,addoutput,targetname deadmanbomb2_armed,0.01"
+	"onplayeruse"		"deadmanbomb2_standby,addoutput,targetname deadmanbomb2_unarmed,0.02"
+
+	"onplayeruse"		"deadmanbomb2_armed,color,255+0+0,0.1"
+	"onplayeruse"		"deadmanbomb2_armed,color,255+255+255,1"
+
+	"OnPlayerUse"		"deadmanbomb2_unarmed,color,0+255+0,0.1"
+	"OnPlayerUse"		"deadmanbomb2_unarmed,color,255+255+255,1"
+
+	"onphysgundrop"		"deadmanbomb2_armed,ignite"
+	"onphysgundrop"		"deadmanbomb2_armed,physdamagescale,1000"
+	"onphysgundrop"		"deadmanbomb2_armed,sethealth,1"
+
+	}
+}

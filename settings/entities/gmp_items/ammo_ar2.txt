@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_ammo_ar2"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

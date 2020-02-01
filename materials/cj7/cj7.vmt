@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "cj7/cj7"
+	$envmap env_cubemap
+	$envmapmask "cj7/cj7c"
+	$envmapcontrast 1
+        $model 1
+}

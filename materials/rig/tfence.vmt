@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "rig/tfence"
+}

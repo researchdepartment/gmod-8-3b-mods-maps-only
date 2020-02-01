@@ -1,0 +1,25 @@
+"LiquidNitroget"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/GlassBottle01a.mdl"
+	"health" "10"
+	"rendercolor" "0 0 255"
+	"explodedamage" "0.1"
+	"exploderadius" "0.1"
+
+	"OnBreak" "!activator,color,100+100+150"
+	"OnBreak" "!activator,disablemotion"
+	"Onbreak" "!activator,enablemotion,,15"
+	"Onbreak" "!activator,turnoff"
+	"Onbreak" "!activator,turnon,,15"
+	"Onbreak" "!activator,addoutput,health 0"
+	"Onbreak" "!activator,addoutput,health 100,15"
+	"Onbreak" "!activator,addoutput,gravity 10"
+	"Onbreak" "!activator,addoutput,gravity 1,15"
+	"Onbreak" "!activator,color,255+255+255,15"
+
+	}
+}

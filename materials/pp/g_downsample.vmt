@@ -1,0 +1,11 @@
+"g_downsample"
+{
+// darken it (lower the number the more bloom)
+	"$darken" 			"0.4" 
+	
+// strength of the bloom
+	"$multiply" 			"1.55"
+	"$ignorez"		1
+	
+	"$basetexture" "_rt_FullFrameFB"
+}

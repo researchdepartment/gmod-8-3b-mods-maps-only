@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\weapons\w_annabelle"
+	"$vertexalpha" 1
+}

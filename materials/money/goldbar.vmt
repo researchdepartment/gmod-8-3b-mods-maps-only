@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "money/goldbar"
+	$envmap env_cubemap
+	$envmapmask "money/goldbarc"
+	$envmapcontrast 1
+        $model 1
+}

@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_battery"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

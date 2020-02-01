@@ -1,0 +1,17 @@
+"Jeep"
+{
+	"classname"			"npc_maker"
+	"type"				"effect"
+	"keyvalues"
+	{
+	"targetname" "npcspawner"
+	"MaxNPCCount" "1"
+	"SpawnFrequency" "10"
+	"MaxLiveChildren" "-1"
+	"NPCType" "npc_poisonzombie"
+	"NPCTargetname" "spawnedenemy"
+	"spawnflags" "48"
+	"startdisabled" "1"
+	"additionalequipment" ""
+	}
+}

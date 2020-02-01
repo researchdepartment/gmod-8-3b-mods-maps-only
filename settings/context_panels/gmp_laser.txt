@@ -1,0 +1,66 @@
+"gmp_laser"
+{
+	"title"				"GmodPlus - Laser Controls"
+	
+	"controls"
+	{
+		"keyvaluecombobox"
+		{
+		  	"label"			"Laser"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_lasers.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+		"button"
+		{
+		  	"label"			"Create Startpoint"
+	  	  	"command"		"gmp_laserent"
+		}
+		"button"
+		{
+		  	"label"			"Create Endpoint"
+	  	  	"command"		"gmp_lasertarget"
+		}
+
+		"button"
+		{
+		  	"label"			"Parent laser to prop"
+	  	  	"command"		"gmp_laserprop"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Lasercolor"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_lasers_color.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Laserwidth"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_lasers_width.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Lasernoise"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_lasers_noise.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+		"toggle"
+		{
+		  	"label"			"Laser On/Off"
+	  	  	"name"			"gmp_lasertoggle"
+		}
+		"button"
+		{
+		  	"label"			"Remove laser"
+	  	  	"command"			"gmp_laserremove"
+		}
+	}
+}

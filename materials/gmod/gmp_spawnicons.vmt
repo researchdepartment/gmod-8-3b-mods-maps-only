@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/gmp_spawnicons"
+	"$vertexalpha" 1
+}

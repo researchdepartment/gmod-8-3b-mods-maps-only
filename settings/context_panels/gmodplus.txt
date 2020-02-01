@@ -1,0 +1,99 @@
+"gmodplus"
+{
+	"title"				"GmodPlus V1.5 by ReaperSWE"
+	"resourcefile"		"resource/ui/context_gmp.res" 
+
+	"controls"
+	{
+		"button"
+		{
+			"name"			"gmp_client_tools"
+		  	"label"			"Settings"
+	  	  	"command"		"gm_context gmp_client"
+		}
+		"button"
+		{
+			"name"			"gmp_server_tools"
+		  	"label"			"Server Settings"
+	  	  	"command"		"gm_context gmp_admin"
+		}
+		"button"
+		{
+			"name"			"gmp_punishment"
+		  	"label"			""
+	  	  	"command"		""
+		}
+		"button"
+		{
+			"name"			"gmp_npc"
+		  	"label"			"NPC Ctrls."
+	  	  	"command"		"gm_context gmp_npc"
+		}
+		"button"
+		{
+			"name"			"gmp_utils"
+		  	"label"			"Misc Utils."
+	  	  	"command"		"gm_context gmp_utilities"
+		}
+		"button"
+		{
+			"name"			"gmp_remove"
+		  	"label"			"Removal"
+	  	  	"command"		"gm_context gmp_remove"
+		}
+		"button"
+		{
+			"name"			"gmp_npcspawner"
+		  	"label"			"NPC Spawners"
+	  	  	"command"		"gm_context gmp_npcspawner"
+		}
+		"button"
+		{
+			"name"			"gmp_proptools"
+		  	"label"			"Proptools"
+	  	  	"command"		"gm_context gmp_proptools"
+		}
+		"button"
+		{
+			"name"			"gmp_help"
+		  	"label"			"- FAQ -"
+	  	  	"command"		"gm_context gmp_help"
+		}
+		"button"
+		{
+			"name"			"gmp_ents_v"
+		  	"label"			"Vehicles"
+	  	  	"command"		"gm_context gmp_ents_v"
+		}
+		"button"
+		{
+			"name"			"gmp_ents_w"
+		  	"label"			"Weapons"
+	  	  	"command"		"gm_context gmp_ents_w"
+		}
+		"button"
+		{
+			"name"			"gmp_ents_i"
+		  	"label"			"Items and Ammo"
+	  	  	"command"		"gm_context gmp_ents_i"
+		}
+		"button"
+		{
+			"name"			"gmp_ents_m"
+		  	"label"			"Misc stuff"
+	  	  	"command"		"gm_context gmp_ents_m"
+		}
+		"button"
+		{
+			"name"			"gmp_reload"
+		  	"label"			"Reload GmodPlus"
+	  	  	"command"		"exec GmodPlus/GmodPlus.cfg"
+		}
+		"button"
+		{
+			"name"			"gmp_laser"
+		  	"label"			"Laser Ctrl."
+	  	  	"command"		"gm_context gmp_laser"
+		}
+	}
+}

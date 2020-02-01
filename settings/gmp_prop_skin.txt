@@ -1,0 +1,87 @@
+"gmp_prop_skin.txt"
+{
+	"Propskin - 0 (default)"
+	{
+		"ent_fire" "!picker skin 0"
+	}
+	"Propskin - 1"
+	{
+		"ent_fire" "!picker skin 1"
+	}
+	"Propskin - 2"
+	{
+		"ent_fire" "!picker skin 2"
+	}
+	"Propskin - 3"
+	{
+		"ent_fire" "!picker skin 3"
+	}
+	"Propskin - 4"
+	{
+		"ent_fire" "!picker skin 4"
+	}
+	"Propskin - 5"
+	{
+		"ent_fire" "!picker skin 5"
+	}
+	"Propskin - 6"
+	{
+		"ent_fire" "!picker skin 6"
+	}
+	"Propskin - 7"
+	{
+		"ent_fire" "!picker skin 7"
+	}
+	"Propskin - 8"
+	{
+		"ent_fire" "!picker skin 8"
+	}
+	"Propskin - 9"
+	{
+		"ent_fire" "!picker skin 9"
+	}
+	"Propskin - 10"
+	{
+		"ent_fire" "!picker skin 10"
+	}
+	"Propskin - 11"
+	{
+		"ent_fire" "!picker skin 11"
+	}
+	"Propskin - 12"
+	{
+		"ent_fire" "!picker skin 12"
+	}
+	"Propskin - 13"
+	{
+		"ent_fire" "!picker skin 13"
+	}
+	"Propskin - 14"
+	{
+		"ent_fire" "!picker skin 14"
+	}
+	"Propskin - 15"
+	{
+		"ent_fire" "!picker skin 15"
+	}
+	"Propskin - 16"
+	{
+		"ent_fire" "!picker skin 16"
+	}
+	"Propskin - 17"
+	{
+		"ent_fire" "!picker skin 17"
+	}
+	"Propskin - 18"
+	{
+		"ent_fire" "!picker skin 18"
+	}
+	"Propskin - 19"
+	{
+		"ent_fire" "!picker skin 19"
+	}
+	"Propskin - 20"
+	{
+		"ent_fire" "!picker skin 20"
+	}
+}

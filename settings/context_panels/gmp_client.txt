@@ -1,0 +1,92 @@
+"gmp_client"
+{
+	"title"				"GmodPlus - Client Settings"
+	
+	"controls"
+	{
+		"button"
+		{
+		  	"label"			"Open Console"
+	  	  	"command"		"con_enable 1; toggleconsole"
+		}
+		"toggle"
+		{
+		  	"label"			"Tools / Weapons"
+	  	  	"name"			"gmp_toolweap"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Player Model"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_models.txt"
+	  	  	"OpenOffsetY"	"-350"
+	  	  	"multisetting"	"1"
+		}
+
+		"toggle"
+		{
+		  	"label"			"Noclip"
+	  	  	"name"		"noclip"
+		}
+		"toggle"
+		{
+		  	"label"			"Grayscale"
+	  	  	"name"			"mat_yuv"
+		}
+		"toggle"
+		{
+		  	"label"			"Prop Wireframe"
+	  	  	"name"			"vcollide_wireframe"
+		}
+		"toggle"
+		{
+		  	"label"			"World Wireframe"
+	  	  	"name"			"mat_wireframe"
+		}
+		"toggle"
+		{
+		  	"label"			"Show FPS"
+	  	  	"name"			"cl_showfps"
+		}
+		"slider"
+		{
+		  	"label"			"Developer mode"
+	  	  	"name"			"developer"
+	  	  	"min"			"0"
+	  	  	"max"			"2"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Net Graph"
+	  	  	"name"			"net_graph"
+	  	  	"min"			"0"
+	  	  	"max"			"3"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Net Graph Position"
+	  	  	"name"			"net_graphpos"
+	  	  	"min"			"0"
+	  	  	"max"			"2"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Sound Volume"
+	  	  	"name"			"volume"
+	  	  	"min"			"0"
+	  	  	"max"			"1"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"playsong"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_songs.txt"
+	  	  	"OpenOffsetY"	"-600"
+	  	  	"multisetting"	"1"
+		}
+
+	}
+}

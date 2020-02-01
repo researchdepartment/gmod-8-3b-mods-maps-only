@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\weapons\w_crossbow"
+	"$vertexalpha" 1
+}

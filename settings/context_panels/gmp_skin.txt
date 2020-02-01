@@ -1,0 +1,94 @@
+"gmp_skin"
+{
+	"title"				"GmodPlus - Prop skin"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+			"name"			"helptext"
+		  	"label"			"Cheats has to be on for these to work."
+		  	"tall"			"20"
+		}
+		"button"
+		{
+		  	"label"			"Skin: Default"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 0; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 1"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 1; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 2"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 2; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 3"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 3; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 4"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 4; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 5"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 5; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 6"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 6; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 7"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 7; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 8"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 8; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 9"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 9; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 10"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 10; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 11"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 11; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 12"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 12; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 13"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 13; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 14"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 14; wait50; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Skin: 15"
+	  	  	"command"		"ent_setname skinning; wait50; ent_fire skinning skin 15; wait50; ent_setname usedtarget"
+		}
+	}
+}

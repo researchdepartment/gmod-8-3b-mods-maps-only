@@ -1,0 +1,50 @@
+"PHX [USEFUL STUFF]"
+ {
+	"~Usable" ""
+	"=Airboat Seat"   			"airboatseat"
+	
+	"~Misc" ""
+	"Facepunch LOGO"                	"models\props_phx\facepunch_logo.mdl"
+	"Space Rocket"                		"models\props_phx\rocket1.mdl"
+	"Empty Barrel"				"models\props_phx\empty_barrel.mdl"
+	"Playfield"                		"models\props_phx\playfield.mdl"
+	"OilDrum"				"models\props_phx\oildrum001.mdl"
+	"Facepunch Barrel"			"models\props_phx\Facepunch_barrel.mdl"
+	"Torpedo BOX"				"models\props_phx\box_torpedo.mdl"
+	"Amraam BOX"				"models\props_phx\box_amraam.mdl"
+	"Big Cannon"                		"models\props_phx\cannon.mdl"
+	"Small Cannon"				"models\props_phx\misc\smallcannon.mdl"
+	"Small Cannon(+Clip)"			"models\props_phx\misc\smallcannonclip.mdl"
+	"Small Cannon Ball"			"models\props_phx\misc\smallcannonball.mdl"
+	"RT Screen"				"models\props_phx\rt_screen.mdl"
+	"SoccerBall"				"models\props_phx\misc\soccerball.mdl"
+
+		
+
+	"~Explosive" ""
+	"Torpedo"				"models\props_phx\torpedo.mdl"
+	"MK-82 Bomb"				"models\props_phx\mk-82.mdl"
+	"WWII Bomb"				"models\props_phx\ww2bomb.mdl"
+	"Cannon Ball"				"models\props_phx\cannonball.mdl"
+	"Explosive Ball"			"models\props_phx\ball.mdl"
+	"Amraam Missile"			"models\props_phx\amraam.mdl"
+	"Explosive Barrel"			"models\props_phx\oildrum001_explosive.mdl"
+	"Flak Shell"				"models\props_phx\misc\flakshell_big.mdl"
+
+
+	"~Mechanics" ""
+	"Gear 1"				"models\props_phx\mechanics\medgear.mdl"
+	"Gear 2"				"models\props_phx\mechanics\biggear.mdl"
+	"Slide 10x"				"models\props_phx\mechanics\slider1.mdl"
+	"Slide 19x"				"models\props_phx\mechanics\slider2.mdl"
+	"Arm 1"					"models\props_phx\mechanics\mech1.mdl"
+	"#Arm 2"				"models\props_phx\mechanics\mech2.mdl"
+	"#Arm 3"				"models\props_phx\mechanics\mech3.mdl"
+
+	"~Huge Stuff" ""
+	"Road Short"				"models\props_phx\huge\road_short.mdl"
+	"Road Medium"				"models\props_phx\huge\road_medium.mdl"
+	"Road Long"				"models\props_phx\huge\road_long.mdl"
+	"Road Curve"				"models\props_phx\huge\road_curve.mdl"
+	"Sky Scraper"				"models\props_phx\huge\Evildisc_corp.mdl"
+}

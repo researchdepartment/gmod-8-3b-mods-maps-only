@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_healthcharger"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	}
+}

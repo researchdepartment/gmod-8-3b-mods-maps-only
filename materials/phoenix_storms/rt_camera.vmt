@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "_rt_Camera"
+	"%tooltexture" "dev/dev_monitor"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .2 .2 .3 ]"
+	"$selfillum" 1
+}
+
+

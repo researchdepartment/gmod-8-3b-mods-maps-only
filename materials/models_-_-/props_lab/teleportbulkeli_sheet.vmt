@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "FFmdls/props_lab/teleportbulkeli_sheet"
+	"$selfillum" "1"
+}

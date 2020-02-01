@@ -1,0 +1,15 @@
+"Skull"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model" "models\gibs\HGIBS.mdl"
+	"rendercolor" "100 100 100"
+
+	"physdamagescale" "1000"
+	"onhealthchanged" "!activator,fireuser4,1"
+
+	}
+}

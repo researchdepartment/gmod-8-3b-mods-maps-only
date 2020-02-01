@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "FFmdls/Breen/mouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

@@ -1,0 +1,9 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "myj/window"
+	$envmap env_cubemap
+	$envmapmask "myj/windowc"
+	$envmapcontrast 1
+        $model 1
+}

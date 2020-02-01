@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_combine\weaponstripper"
+	"$vertexalpha" 1
+}

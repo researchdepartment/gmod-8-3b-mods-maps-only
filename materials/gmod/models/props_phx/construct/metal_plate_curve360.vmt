@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_phx\construct\metal_plate_curve360"
+	"$vertexalpha" 1
+}

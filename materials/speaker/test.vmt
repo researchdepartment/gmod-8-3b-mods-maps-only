@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "speaker/test"
+        $model 1
+}

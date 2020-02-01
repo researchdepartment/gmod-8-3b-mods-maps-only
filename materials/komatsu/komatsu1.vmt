@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "komatsu/komatsu1"
+	$envmap env_cubemap
+	$envmapmask "komatsu/kcube"
+	$envmapcontrast 1
+        $model 1
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_phx\rt_screen"
+	"$vertexalpha" 1
+}

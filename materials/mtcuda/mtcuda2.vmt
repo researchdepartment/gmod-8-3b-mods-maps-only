@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "mtcuda/mtcuda2"
+	$envmap env_cubemap
+	$envmapmask "mtcuda/mtcudac"
+	$envmapcontrast 1
+        $model 1
+}

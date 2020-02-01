@@ -1,0 +1,31 @@
+
+// These files are server side
+// Changes to these files will only effect a server that you create
+
+
+"Jeep"
+{
+
+	// The classname of the entity you're going to spawn.
+
+	"classname"			"item_item_crate"
+	
+	
+	// the type of entity - this is for the server limit stuff.. and if you don't set it
+	// player will be able to spawn an unlimited amount of these on your server!
+	// Valid values are "vehicle", "prop", "ragdoll" or "effect"
+	
+	"type"				"effect"
+	
+	// These are any keyvalues that you can assign to an entity normally
+	"keyvalues"
+	{
+	"spawnflags" "256"
+	"physdamagescale" "0.1"
+	"inertiaScale" "1.0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ItemClass" "item_dynamic_resupply"
+	"ItemCount" "1"
+	}
+}

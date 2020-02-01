@@ -1,0 +1,18 @@
+"Jeep"
+{
+	"classname"			"prop_physics_override"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"spawnflags" "2"
+	"physdamagescale" "0.1"
+	"inertiaScale" "1.0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_c17/oildrum001_explosive.mdl"
+	"ExplodeDamage" "999999"
+	"ExplodeRadius" "500"
+	"nodamageforces" "1"
+	"health"	"20"
+	}
+}

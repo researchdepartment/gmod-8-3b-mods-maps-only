@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "shock/suspen"
+        $model 1
+}

@@ -1,0 +1,43 @@
+"Cursefreq2"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model" "models/props/cs_italy/orange.mdl"
+	"health" "1000"
+	"rendercolor" "25 75 25"
+	"spawnflags" "256"
+	"MaterialOverride" "models/debug/debugwhite"
+	"physdamagescale" "0.01"
+
+	"onbreak" "!activator,color,255"
+	"onbreak" "!activator,color,255+255,0.1"
+	"onbreak" "!activator,color,0+255,0.2"
+	"onbreak" "!activator,color,0+255+255,0.3"
+	"onbreak" "!activator,color,0+0+255,0.4"
+	"onbreak" "!activator,color,255+0+255,0.5"
+	"onbreak" "!activator,color,255+255+255,0.6"
+
+	"onbreak" "cursedfreq2,addoutput,targetname player"
+	"onbreak" "!activator,addoutput,targetname cursedfreq2,0.1"
+
+	"onplayeruse" "!self,color,255"
+	"onplayeruse" "!self,color,250,0.1"
+	"onplayeruse" "!self,color,225,0.2"
+	"onplayeruse" "!self,color,200,0.3"
+	"onplayeruse" "!self,color,175,0.4"
+	"onplayeruse" "!self,color,150,0.5"
+	"onplayeruse" "!self,color,125,0.6"
+	"onplayeruse" "!self,color,100,0.7"
+	"onplayeruse" "!self,color,75,0.8"
+	"onplayeruse" "!self,color,50,0.9"
+	"onplayeruse" "!self,color,25,1"
+	"onplayeruse" "!self,color,0,1.1"
+
+	"onplayeruse" "!self,sethealth,1,1"
+	"onplayeruse" "!self,physdamagescale,1000,1"
+
+	}
+}

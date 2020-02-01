@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_phx\construct\windows\Window_curve360x1"
+	"$vertexalpha" 1
+}

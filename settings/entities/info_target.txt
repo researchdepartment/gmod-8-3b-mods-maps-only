@@ -1,0 +1,12 @@
+"Jeep"
+{
+
+	"classname"			"info_target"
+	"type"				"effect"
+	
+	"keyvalues"
+	{
+	"targetname" "info_target"
+	}
+	
+}

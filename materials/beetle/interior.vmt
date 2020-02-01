@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "beetle/interior"
+        $model 1
+}

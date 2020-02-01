@@ -1,0 +1,35 @@
+"Refract"
+{
+ 	"$model" 1
+ 	"$refractamount" ".2"
+// 	"$bluramount" "1"
+	"$REFRACTTINT" "{250 250 250}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "stargate/shield_dudv" //I HATE YOU, TEXTURE!!!! xD
+ 	"$normalmap" "stargate/shield_normal"
+ 	"$surfaceprop" "water"
+	"$bumpframe" "0"
+	"$nocull" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.4 .4 .8]"
+
+	"$REFRACTTINTTEXTURE" "stargate/blue"
+
+
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$REFRACTTINTTEXTURE"
+			"animatedtextureframenumvar" "$REFRACTTINTTEXTUREFRAME"
+			"animatedtextureframerate" 29.00
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap" 
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 29.00
+		}
+	}
+}

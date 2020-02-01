@@ -1,0 +1,10 @@
+"ws"
+{
+
+	"classname"			"player_weaponstrip"
+	"keyvalues"
+	{
+	}
+}
+
+// Made by Catdaemon. Don't steal my work, instead learn, trust me on this one, you can do a lot better.

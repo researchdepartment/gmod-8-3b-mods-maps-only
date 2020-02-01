@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/player/stripped"
+	"$vertexalpha" 1
+}

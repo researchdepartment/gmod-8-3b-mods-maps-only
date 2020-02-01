@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "FFmdls/GmNC/gman_facehirez"
+	"$bumpmap" "FFmdls/GmNC/gmanhirez_normal"
+	"$halflambert" 1
+}
+

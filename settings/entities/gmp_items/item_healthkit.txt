@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_healthkit"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

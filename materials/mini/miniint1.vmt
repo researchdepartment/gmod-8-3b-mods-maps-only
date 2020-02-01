@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "mini/miniint1"
+        $model 1
+}

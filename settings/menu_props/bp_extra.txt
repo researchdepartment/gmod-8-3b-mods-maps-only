@@ -1,0 +1,28 @@
+"Black Phoenix's Extra"
+{
+	"~Explosives"	"1"
+	
+	"=Nitoglycirine"                	"explosives/bottle"
+	"=Molotov Cocktail"                	"explosives/Igniter"
+	"=Bomb"                	"explosives/Melon"
+	"=TNT"                	"explosives/Tnt"
+	"=Heavy TNT"                	"explosives/HeavyTnt"
+	"Propane Tank"			"models/props_junk/propane_tank001a.mdl"
+	"Explosive Barrel"                	"models/props_c17/oildrum001_explosive.mdl"
+	"Gas can"                	"models/props_junk/gascan001a.mdl"	
+	"=Cannister"                		"cannister"
+	"=Bottle"                	"gmp_ww/bottle"
+	"=Igniter"                	"gmp_ww/Igniter"
+
+	"~Extra stuff"	                "2"
+	"Plane"                       "models/shiroko/ot_plane.mdl"
+
+	"~Misc"	                "3"
+	"Ammo can"                       "models/shiroko/ot_ammocan.mdl"
+	"Fern"                       "models/shiroko/ot_fern01.mdl"
+	"Giant tree"                       "models/shiroko/ot_gianttree01.mdl"
+	"Plant"                       "models/shiroko/ot_plant10.mdl"
+	"Plant"                       "models/shiroko/ot_plant01.mdl"
+	"Prc"                       "models/shiroko/ot_prc01.mdl"
+	"Grass"                       "models/shiroko/otd_grassbig.mdl"
+}

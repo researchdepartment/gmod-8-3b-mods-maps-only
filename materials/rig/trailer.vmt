@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "rig/trailer"
+        $model 1
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric" 
+{ 
+	"$baseTexture" "gmod\models\props_wasteland\lighthouse_fresnel_light_base" 
+	"$vertexalpha" 1 
+} 

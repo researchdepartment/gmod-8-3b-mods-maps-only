@@ -1,0 +1,7 @@
+"g_blurx"
+{
+// size of the blur
+	"$size" 			"6" 
+	"$ignorez"		1
+	"$basetexture" "_rt_FullFrameFB"
+}

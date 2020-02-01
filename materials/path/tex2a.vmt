@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "path/tex2a"
+        $model 1
+}

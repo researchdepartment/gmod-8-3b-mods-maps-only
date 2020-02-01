@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/gunship"
+	"$vertexalpha" 1
+}

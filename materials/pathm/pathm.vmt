@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "path/tex2"
+        $model 1
+}

@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "hummer/tex8"
+        $model 1
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\items\boxbuckshot"
+	"$vertexalpha" 1
+}

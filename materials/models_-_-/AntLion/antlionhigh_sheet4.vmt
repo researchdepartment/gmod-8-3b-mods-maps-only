@@ -1,0 +1,10 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$baseTexture" "FFmdls/Antlion/Antlionhigh_sheet4"
+	"$bumpmap" "FFmdls/Antlion/Antlionhigh_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .36 .36 .30 ]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+}

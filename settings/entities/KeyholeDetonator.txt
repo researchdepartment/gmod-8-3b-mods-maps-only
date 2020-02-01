@@ -1,0 +1,42 @@
+"KeyholeDetonator"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/GlassBottle01a.mdl"
+	"MaterialOverride" "models/debug/debugwhite"
+	"health" "1000"
+	"physdamagescale" "0.01"
+	"rendercolor" "25 75 25"
+	"explodedamage" "10000"
+	"exploderadius" "300"
+	"spawnflags" "256"
+	"explodedamage" "100"
+	"exploderadius" "10"
+
+	"onplayeruse" "!self,color,150+200+0"
+	"onplayeruse" "!self,physdamagescale,1"
+	"onplayeruse" "!self,sethealth,10"
+
+	"onbreak" "!activator,color,255+0+0"
+	"onbreak" "!activator,color,255+255+255,0.5"
+	"onbreak" "!activator,color,200+200+200,2"
+	"onbreak" "!activator,color,175+175+175,3"
+	"onbreak" "!activator,color,150+150+150,4"
+	"onbreak" "!activator,color,125+125+125,5"
+	"onbreak" "!activator,color,100+100+100,6"
+	"onbreak" "!activator,color,75+75+75,7"
+	"onbreak" "!activator,color,50+50+50,8"
+	"onbreak" "!activator,color,0+0+0,9"
+	"onbreak" "!activator,color,0+255+0,10"
+	"onbreak" "!activator,color,255+255+255,12"
+
+	"onbreak" "!activator,unlock,1,10"
+	"onbreak" "!activator,open,1,10.1"
+
+
+
+
+	}
+}

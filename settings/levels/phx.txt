@@ -1,0 +1,10 @@
+"PhoeniX-Storms MODEL PACK 2"
+{
+	"gm_ps_trains V2"
+	{
+		"map"		"gm_ps_trains_v2"
+		"material"	"phoenix_storms/maps/gm_ps_trains"
+		"credits"	"PhoeniX-Storms"
+	}
+
+}

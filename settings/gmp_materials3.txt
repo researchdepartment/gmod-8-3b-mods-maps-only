@@ -1,0 +1,45 @@
+// .vmf files!
+
+"gmp_materials2.txt"
+{
+	"Plasterwall 1"
+	{
+		"gm_matmode" "45"
+	}
+	"Plasterwall 2"
+	{
+		"gm_matmode" "46"
+	}
+	"Plasterwall 3"
+	{
+		"gm_matmode" "47"
+	}
+	"Plasterwall 4"
+	{
+		"gm_matmode" "48"
+	}
+	"Plasterwall 5"
+	{
+		"gm_matmode" "49"
+	}
+	"Concretefloor 1"
+	{
+		"gm_matmode" "50"
+	}
+	"Concretefloor 1"
+	{
+		"gm_matmode" "51"
+	}
+	"Concretewall 1"
+	{
+		"gm_matmode" "52"
+	}
+	"Concretewall 2"
+	{
+		"gm_matmode" "53"
+	}
+	"Concretewall 3"
+	{
+		"gm_matmode" "54"
+	}
+}

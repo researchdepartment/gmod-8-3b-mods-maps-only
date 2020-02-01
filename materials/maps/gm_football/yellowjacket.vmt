@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$vertexcolor"	1
+	"$vertexalpha"	1
+	"$translucent" 1
+	"$basetexture" "maps/gm_football/yellowjacket"
+	"$decal" 1
+	"$decalscale" 0.5
+}

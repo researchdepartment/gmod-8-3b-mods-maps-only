@@ -1,0 +1,34 @@
+"GmowV3"
+{
+	"title"				"GMOW V3"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+			"name"			"helptext"
+		  	"label"			"Change Skin:"
+		  	"tall"			"12"
+		}
+		"columns"			"2"
+		"button"
+		{
+		  	"label"			"Tag Object"
+	  	  	"command"		"ent_setname toilet"
+		}
+		"button"
+		{
+		  	"label"			"Un-tag Object"
+	  	  	"command"		"ent_setname done"
+		}
+		"slider"
+		{
+		  	"label"			"Change Skin (Tag First)"
+	  	  	"name"			"ent_fire toilet skin"
+	  	  	"min"			"0"
+	  	  	"max"			"25"
+	  	  	"integer"		"1"
+		}
+
+	}
+}

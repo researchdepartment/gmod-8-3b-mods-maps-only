@@ -1,0 +1,51 @@
+"gmp_ents_v"
+{
+	"title"				"GmodPlus - Vehicles"
+	
+	"controls"
+	{
+		"button"
+		{
+		  	"label"			"Jeep"
+	  	  	"command"		"gm_makeentity jeep"
+		}
+
+		"button"
+		{
+		  	"label"			"Airboat"
+	  	  	"command"		"gm_makeentity airboat"
+		}
+		"button"
+		{
+		  	"label"			"Pod"
+	  	  	"command"		"gm_makeentity pod"
+		}
+		"button"
+		{
+		  	"label"			"Airboat (With gun)"
+	  	  	"command"		"gm_makeentity gmp_vehicles/airboat_gun"
+		}
+		"button"
+		{
+		  	"label"			"Combine APC"
+	  	  	"command"		"gm_makeentity gmp_vehicles/apc"
+		}
+		"button"
+		{
+		  	"label"			"Pod: Inner"
+	  	  	"command"		"gm_makeentity gmp_vehicles/pod_inner"
+		}
+		"button"
+		{
+		  	"label"			"Pod: Breenpod"
+	  	  	"command"		"gm_makeentity gmp_vehicles/pod_inner2"
+		}
+		"button"
+		{
+		  	"label"			"Pod: TV"
+	  	  	"command"		"gm_makeentity gmp_vehicles/pod_tv"
+		}
+
+
+	}
+}

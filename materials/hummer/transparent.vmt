@@ -1,0 +1,9 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "hummer/transparent"
+	$envmap env_cubemap
+	$envmapmask "hummer/transparentc"
+	$envmapcontrast 1
+        $model 1
+}

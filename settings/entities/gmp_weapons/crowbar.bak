@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"weapon_crowbar"
+	"type"				"prop"
+	"keyvalues"
+	{
+		"solid"				"6"
+	}
+}

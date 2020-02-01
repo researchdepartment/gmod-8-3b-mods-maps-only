@@ -1,0 +1,183 @@
+"gmp_npc"
+{
+	"title"				"Gmod Plus! - NPC Controls"
+	"resourcefile"		"resource/ui/context_npc.res" 
+	
+	"controls"
+	{
+		"button"
+		{
+			"name"			"global_ceasefire"
+		  	"label"			"Ceasefire"
+	  	  	"command"		"exec GmodPlus/npc/ceasefire_global.cfg"
+		}
+		"button"
+		{
+			"name"			"global_attack"
+		  	"label"			"Battle"
+	  	  	"command"		"exec GmodPlus/npc/red/attack/enemys.cfg; exec GmodPlus/npc/blue/attack/enemys.cfg; exec GmodPlus/npc/green/attack/enemys.cfg; exec GmodPlus/npc/yellow/attack/enemys.cfg"
+		}
+		"button"
+		{
+			"name"			"global_colours_on"
+		  	"label"			"Show Colours"
+	  	  	"command"		"exec GmodPlus/npc/team_on.cfg"
+		}
+		"button"
+		{
+			"name"			"global_colours_off"
+		  	"label"			"Hide Colours"
+	  	  	"command"		"exec GmodPlus/npc/team_off.cfg"
+		}
+		"button"
+		{
+			"name"			"ctrl_red"
+		  	"label"			"Red"
+	  	  	"command"		"exec GmodPlus/npc/change_red.cfg"
+		}
+		"button"
+		{
+			"name"			"ctrl_blue"
+		  	"label"			"Blue"
+	  	  	"command"		"exec GmodPlus/npc/change_blue.cfg"
+		}
+		"button"
+		{
+			"name"			"ctrl_green"
+		  	"label"			"Green"
+	  	  	"command"		"exec GmodPlus/npc/change_green.cfg"
+		}
+		"button"
+		{
+			"name"			"ctrl_yellow"
+		  	"label"			"Yellow"
+	  	  	"command"		"exec GmodPlus/npc/change_yellow.cfg"
+		}
+		"button"
+		{
+			"name"			"current_ceasefire"
+		  	"label"			"None"
+	  	  	"command"		"npcattack_ceasefire"
+		}
+		"button"
+		{
+			"name"			"current_other"
+		  	"label"			"Other"
+	  	  	"command"		"npcattack_enemys"
+		}
+		"button"
+		{
+			"name"			"current_red"
+		  	"label"			"Red"
+	  	  	"command"		"npcattack_red"
+		}
+		"button"
+		{
+			"name"			"current_blue"
+		  	"label"			"Blue"
+	  	  	"command"		"npcattack_blue"
+		}
+		"button"
+		{
+			"name"			"current_green"
+		  	"label"			"Green"
+	  	  	"command"		"npcattack_green"
+		}
+		"button"
+		{
+			"name"			"current_yellow"
+		  	"label"			"Yellow"
+	  	  	"command"		"npcattack_yellow"
+		}
+		"button"
+		{
+			"name"			"current_player"
+		  	"label"			"Players"
+	  	  	"command"		"npcattack_player"
+		}
+		"button"
+		{
+			"name"			"current_all"
+		  	"label"			"All"
+	  	  	"command"		"npcattack_all"
+		}
+		"button"
+		{
+			"name"			"select_specific"
+		  	"label"			"Infront"
+	  	  	"command"		"npc_select"
+		}
+		"button"
+		{
+			"name"			"select_red"
+		  	"label"			"Red"
+	  	  	"command"		"npc_select team_red"
+		}
+		"button"
+		{
+			"name"			"select_blue"
+		  	"label"			"Blue"
+	  	  	"command"		"npc_select team_blue"
+		}
+		"button"
+		{
+			"name"			"select_green"
+		  	"label"			"Green"
+	  	  	"command"		"npc_select team_green"
+		}
+		"button"
+		{
+			"name"			"select_yellow"
+		  	"label"			"Yellow"
+	  	  	"command"		"npc_select team_yellow"
+		}
+		"button"
+		{
+			"name"			"select_go"
+		  	"label"			"Go to waypoint"
+	  	  	"command"		"npc_go"
+		}
+		"button"
+		{
+			"name"			"npcmisc_kill"
+		  	"label"			"Suicide"
+	  	  	"command"		"npc_suicide"
+		}
+		"button"
+		{
+			"name"			"npcmisc_target"
+		  	"label"			"Activate Targeting"
+	  	  	"command"		"activate_targeting"
+		}
+		"button"
+		{
+			"name"			"npcmisc_clear"
+		  	"label"			"Clear targets"
+	  	  	"command"		"ent_remove_all npc_launcher"
+		}
+		"button"
+		{
+			"name"			"set_red"
+		  	"label"			"Red"
+	  	  	"command"		"exec GmodPlus/npc/set_red.cfg"
+		}
+		"button"
+		{
+			"name"			"set_blue"
+		  	"label"			"Blue"
+	  	  	"command"		"exec GmodPlus/npc/set_blue.cfg"
+		}
+		"button"
+		{
+			"name"			"set_green"
+		  	"label"			"Green"
+	  	  	"command"		"exec GmodPlus/npc/set_green.cfg"
+		}
+		"button"
+		{
+			"name"			"set_yellow"
+		  	"label"			"Yellow"
+	  	  	"command"		"exec GmodPlus/npc/set_yellow.cfg"
+		}
+	}
+}

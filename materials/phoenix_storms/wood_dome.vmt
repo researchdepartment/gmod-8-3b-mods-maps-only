@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "phoenix_storms/wood_dome"
+	"$surfaceprop" "wood"
+	"$bumpmap" "phoenix_storms/wood_dome_bump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .8 .8 .8 ]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$model" 1
+}
+
+

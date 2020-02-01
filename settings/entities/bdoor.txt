@@ -1,0 +1,12 @@
+"bdoor"
+{
+	"classname" 	"prop_door_rotating"
+	"keyvalues"
+	{
+	"spawnflags" "8192"
+	"distance" "90"
+	"health" "0"
+	"model" "models/props_lab/blastdoor001c.mdl"
+	"returndelay" "-1"
+	}
+}

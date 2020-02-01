@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\combine_helicopter\helicopter_bomb01"
+	"$vertexalpha" 1
+}

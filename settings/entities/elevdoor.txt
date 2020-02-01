@@ -1,0 +1,9 @@
+"elev_door"
+{
+	"classname"			"prop_dynamic"
+	"keyvalues"
+	{
+	"solid" "6"
+	"model" "models/props_lab\elevatordoor.mdl"
+	}
+}

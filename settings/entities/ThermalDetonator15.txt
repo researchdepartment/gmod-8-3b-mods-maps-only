@@ -1,0 +1,26 @@
+"ThermalDetonator_15sec"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props/cs_italy/orange.mdl"
+	"MaterialOverride" "models/props_combine/combinethumper002"
+	"health" "1000"
+	"physdamagescale" "0.01"
+	"rendercolor" "255 255 255"
+	"explodedamage" "10000"
+	"exploderadius" "300"
+	"spawnflags" "256"
+
+	"onplayeruse" "!self,color,255"
+	"onplayeruse" "!self,color,0+255+0,0.5"
+	"onplayeruse" "!self,color,255+255+0,5"
+	"onplayeruse" "!self,color,255+0+0,10"
+	"onplayeruse" "!self,color,0+0+0,15"
+	"onplayeruse" "!self,physdamagescale,10,15"
+	"onplayeruse" "!self,sethealth,1,15"
+	"onplayeruse" "!self,ignite,,15"
+
+	}
+}

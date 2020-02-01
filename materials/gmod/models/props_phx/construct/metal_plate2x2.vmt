@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_phx\construct\metal_plate2x2"
+	"$vertexalpha" 1
+}

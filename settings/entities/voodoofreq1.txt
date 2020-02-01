@@ -1,0 +1,52 @@
+"voodoofreq1"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model" "models/props_c17/doll01.mdl"
+	"rendercolor" "200 100 100"
+	"MaterialOverride" "models/combine_advisor/body9"
+
+	"physdamagescale" "100"
+
+	"onbreak" "cursedfreq1,clearparent"
+	"onbreak" "cursedfreq1,sethealth,0,13"
+	"onbreak" "cursedfreq1,addoutput,targetname player"
+
+	"onhealthchanged" "cursedfreq1,sethealth,100"
+	"onhealthchanged" "cursedfreq1,sethealth,13,0.01"
+
+	"onphysgunpickup" "cursedfreq1,addoutput,gravity 0"
+	"onphysgundrop" "cursedfreq1,addoutput,gravity 100"
+	"onphysgundrop" "cursedfreq1,addoutput,gravity 1,1"
+
+	"onuser1" "cursedfreq1,ignite"
+	"onuser1" "!self,color,255+150+0"
+	"onuser1" "!self,color,200+150+150,30"
+
+	"onuser2" "cursedfreq1,addoutput,health 0"
+	"onuser2" "!self,color,0+0+0"
+	"onuser2" "!self,disablemotion"
+	"onuser2" "!self,color,200+150+150,0.5"
+
+	"onmotionenabled" "cursedfreq1,addoutput,health 100"
+
+	"onuser3" "cursedfreq1,sethealth,0"
+	"onuser3" "!self,color,255+0+0"
+	"onuser3" "!self,color,200+0+0,0.5"
+	"onuser3" "!self,color,150+0+0,1"
+	"onuser3" "!self,color,100+0+0,1.5"
+	"onuser3" "!self,color,50+0+0,2"
+	"onuser3" "!self,color,0+0+0,2.5"
+	"onuser3" "!self,color,200+150+150,3"
+
+	"onuser4" "cursedfreq1,addoutput,gravity 100"
+	"onuser4" "cursedfreq1,addoutput,gravity 1,13"
+	"onuser4" "!self,color,100+100+100"
+	"onuser4" "!self,color,200+150+150,13"
+
+
+	}
+}

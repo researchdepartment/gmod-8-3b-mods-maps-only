@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\items\car_battery01"
+	"$vertexalpha" 1
+}

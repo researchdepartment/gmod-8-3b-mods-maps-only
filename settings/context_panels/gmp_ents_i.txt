@@ -1,0 +1,83 @@
+"gmp_ents_i"
+{
+	"title"				"GmodPlus - Items and ammo"
+	
+	"controls"
+	{
+		"button"
+		{
+		  	"label"			"Pistol ammo"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_pistol"
+		}
+		"button"
+		{
+		  	"label"			"SMG ammo"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_smg1"
+		}
+		"button"
+		{
+		  	"label"			"SMG Grenade"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_smg1altfire"
+		}
+		"button"
+		{
+		  	"label"			"Shotgun ammo"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_shotgun"
+		}
+		"button"
+		{
+		  	"label"			"357 Magnum ammo"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_357"
+		}
+		"button"
+		{
+		  	"label"			"Crossbow ammo"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_crossbow"
+		}
+		"button"
+		{
+		  	"label"			"Pulse Rifle ammo"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_ar2"
+		}
+		"button"
+		{
+		  	"label"			"Pulse Rifle Grenade"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_ar2altfire"
+		}
+		"button"
+		{
+		  	"label"			"RPG"
+	  	  	"command"		"gm_makeentity gmp_items/ammo_rpg"
+		}
+		"button"
+		{
+		  	"label"			"Healthvial"
+	  	  	"command"		"gm_makeentity gmp_items/item_healthvial"
+		}
+		"button"
+		{
+		  	"label"			"Healthkit"
+	  	  	"command"		"gm_makeentity gmp_items/item_healthkit"
+		}
+		"button"
+		{
+		  	"label"			"Battery"
+	  	  	"command"		"gm_makeentity gmp_items/item_battery"
+		}
+		"button"
+		{
+		  	"label"			"Static Healthcharger"
+	  	  	"command"		"gm_makeentity gmp_items/item_healthcharger"
+		}
+		"button"
+		{
+		  	"label"			"Static Suitcharger"
+	  	  	"command"		"gm_makeentity gmp_items/item_suitcharger"
+		}
+		"button"
+		{
+		  	"label"			"Supply Crate"
+	  	  	"command"		"gm_makeentity gmp_misc/crate"
+		}
+	}
+}

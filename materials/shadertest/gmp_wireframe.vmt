@@ -1,0 +1,8 @@
+"gmp_Wireframe"
+{
+	// Original shader: WireframeVertexColor
+	"$ignorez" 0
+	// "$vertexcolor" 1
+	"$decal" 1
+	"$model" 1
+}

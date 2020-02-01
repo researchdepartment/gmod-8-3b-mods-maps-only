@@ -1,0 +1,21 @@
+"PHX [NEW WHEELS]"
+ {
+	"~Wheels" ""
+	"Small Wheel"				"models\props_phx\smallwheel.mdl"
+	"Boeing 747 wheel"                	"models\props_phx\wheels\747wheel.mdl"
+	"Car Tire 1"				"models\props_phx\chrome_tire.mdl"
+	"Car Tire 2"				"models\props_phx\normal_tire.mdl"
+	"Truck Tire 1"				"models\props_phx\wheels\trucktire.mdl"
+	"Truck Tire 2"				"models\props_phx\wheels\trucktire2.mdl"
+	"Metal Wheel 1"				"models\props_phx\wheels\metal_wheel1.mdl"
+	"Metal Wheel 2"				"models\props_phx\wheels\metal_wheel2.mdl"
+	
+	"~Breakable Wheels" ""
+	"Wooden Wheel 1"			"models\props_phx\wheels\wooden_wheel1.mdl"
+	"Wooden Wheel 2"			"models\props_phx\wheels\wooden_wheel2.mdl"
+	"Car Tire 1"				"models\props_phx\wheels\breakable_tire.mdl"
+
+	"~Wheel bases" ""
+	"Smallwheel base"                	"models\props_phx\wheelaxis.mdl"
+
+}

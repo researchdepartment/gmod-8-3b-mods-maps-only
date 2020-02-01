@@ -1,0 +1,33 @@
+"deadmanbomb1"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model"			"models/props_junk/garbage_coffeemug001a.mdl"
+	"MaterialOverride"	"models/props_combine/pipes01"
+	"health"		"1000"
+	"physdamagescale"	"0.01"
+	"rendercolor"		"255 255 255"
+	"explodedamage"		"500"
+	"exploderadius"		"500"
+	"spawnflags"		"256"
+	"targetname"		"deadmanbomb1_unarmed"
+
+	"Onplayeruse"		"deadmanbomb1_armed,addoutput,targetname deadmanbomb1_standby"
+	"onplayeruse"		"deadmanbomb1_unarmed,addoutput,targetname deadmanbomb1_armed,0.01"
+	"onplayeruse"		"deadmanbomb1_standby,addoutput,targetname deadmanbomb1_unarmed,0.02"
+
+	"onplayeruse"		"deadmanbomb1_armed,color,255+0+0,0.1"
+	"onplayeruse"		"deadmanbomb1_armed,color,255+255+255,1"
+
+	"OnPlayerUse"		"deadmanbomb1_unarmed,color,0+255+0,0.1"
+	"OnPlayerUse"		"deadmanbomb1_unarmed,color,255+255+255,1"
+
+	"onphysgundrop"		"deadmanbomb1_armed,ignite"
+	"onphysgundrop"		"deadmanbomb1_armed,physdamagescale,1000"
+	"onphysgundrop"		"deadmanbomb1_armed,sethealth,1"
+
+	}
+}

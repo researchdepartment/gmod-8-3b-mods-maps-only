@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\items\ammocrate_rockets"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\effects\vol_light"
+	"$vertexalpha" 1
+}

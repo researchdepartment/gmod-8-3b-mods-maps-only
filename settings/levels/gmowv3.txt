@@ -1,0 +1,52 @@
+"GMOW V3"
+{
+	"So_Pass"
+	{
+		"map"		"so_pass2"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Solid_Granite"
+	}
+
+	"So_city"
+	{
+		"map"		"so_city2"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Solid_Granite"
+	}
+
+	"GP Airboat Race."
+	{
+		"map"		"gp_airboat_race"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Gplex"
+	}
+
+	"GP Highway"
+	{
+		"map"		"gp_highway"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Gplex"
+	}
+
+	"GP City"
+	{
+		"map"		"gp_city"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Gplex"
+	}
+
+	"GP Offroad Beta"
+	{
+		"map"		"gp_off_road_beta"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Gplex"
+	}
+
+	"GP Racetrack"
+	{
+		"map"		"gp_race_track"
+		"material"	"vgui/chapters/chapter12"
+		"credits"	"Gplex"
+	}
+
+}

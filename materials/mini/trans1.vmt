@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+        $basetexture "mini/trans1"
+        $model 1
+}

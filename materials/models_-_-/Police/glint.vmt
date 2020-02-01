@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "FFmdls/Police/glint"
+	"$additive" 1
+	"$model" 1
+}

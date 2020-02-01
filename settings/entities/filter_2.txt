@@ -1,0 +1,13 @@
+"filter_1"
+{
+
+	"classname"			"filter_activator_team"
+	"keyvalues"
+	{
+	"targetname" "filter_2"
+	"negated" "0"
+	"filterteam" "2" // Combine
+	}
+}
+
+// Made by Catdaemon. Don't steal my work, instead learn, trust me on this one, you can do a lot better.

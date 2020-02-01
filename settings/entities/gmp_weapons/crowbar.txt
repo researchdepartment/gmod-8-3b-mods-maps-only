@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"weapon_crowbar"
+	"type"				"effect"
+	"keyvalues"
+	{
+		"solid"				"6"
+	}
+}

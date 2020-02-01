@@ -1,0 +1,192 @@
+// rotations are done in xyz order
+
+"gmod_wheels.txt"
+{
+	"Facepunch LOGO"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\facepunch_logo.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Facepunch Barrel"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\facepunch_barrel.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Oil Drum [NEW]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\oildrum001.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Explosive Barrel [NEW]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\oildrum001_explosive.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Car Tire 1"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\chrome_tire.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Car Tire 1 [Breakable]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\breakable_tire.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Car Tire 2"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\normal_tire.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Gear 1"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\mechanics\medgear.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Gear 2"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\mechanics\biggear.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Small Wheel"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\smallwheel.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Large Wheel"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\747wheel.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+
+	"Truck [Front Wheel]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\trucktire.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Truck [Rear Double Wheel]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\trucktire2.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Metallic Wheel [SMALL]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\metal_wheel1.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Metallic Wheel [BIG]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\metal_wheel2.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Wooden Wheel [SMALL]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\wooden_wheel1.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Wooden Wheel [BIG]"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\wheels\wooden_wheel2.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Huge Tube"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\construct\metal_plate_curve360.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Double Huge Tube"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\construct\metal_plate_curve360x2.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Wooden Huge Tube"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\construct\wood\wood_curve360x1.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Double Wooden Huge Tube"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\construct\wood\wood_curve360x2.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Windowed Huge Tube"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\construct\windows\window_curve360x1.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+	"Double Windowed Huge Tube"
+	{
+	
+	 	"gm_wheel_model"		"models\props_phx\construct\windows\window_curve360x2.mdl"
+	 	"gm_wheel_rx"		"90"
+	 	"gm_wheel_ry"		"0"
+	 	"gm_wheel_rz"		"0"
+	}
+}

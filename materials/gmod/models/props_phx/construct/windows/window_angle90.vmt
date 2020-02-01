@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod\models\props_phx\construct\windows\window_angle90"
+	"$vertexalpha" 1
+}

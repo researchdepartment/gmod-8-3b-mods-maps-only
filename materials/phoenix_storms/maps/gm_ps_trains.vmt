@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "phoenix_storms/maps/gm_ps_trains"
+	"$vertexalpha" 1
+}

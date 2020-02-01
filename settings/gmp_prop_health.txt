@@ -1,0 +1,51 @@
+"gmp_prop_health.txt"
+{
+	"Set Health relative to: +1"
+	{
+		"ent_fire" "!picker addhealth 1"
+	}
+	"Set Health relative to: +10"
+	{
+		"ent_fire" "!picker addhealth 10"
+	}
+	"Set Health relative to: +100"
+	{
+		"ent_fire" "!picker addhealth 100"
+	}
+	"Set Health relative to: +1000"
+	{
+		"ent_fire" "!picker addhealth 1000"
+	}
+	"Set Health relative to: -1"
+	{
+		"ent_fire" "!picker removehealth 1"
+	}
+	"Set Health relative to: -10"
+	{
+		"ent_fire" "!picker removehealth 10"
+	}
+	"Set Health relative to: -100"
+	{
+		"ent_fire" "!picker removehealth 100"
+	}
+	"Set Health relative to: -1000"
+	{
+		"ent_fire" "!picker removehealth 1000"
+	}
+	"Set Health to: 999999999"
+	{
+		"ent_fire" "!picker sethealth 999999999"
+	}
+	"Set Health to: 100"
+	{
+		"ent_fire" "!picker sethealth 0"
+	}
+	"Set Health to: 1"
+	{
+		"ent_fire" "!picker sethealth 0"
+	}
+	"Set Health to: 0"
+	{
+		"ent_fire" "!picker sethealth 0"
+	}
+}

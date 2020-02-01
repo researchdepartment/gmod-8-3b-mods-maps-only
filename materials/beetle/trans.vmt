@@ -1,0 +1,9 @@
+"vertexLitGeneric"
+{
+	"$translucent" 1
+	$envmap env_cubemap
+	$envmapmask "mtcuda/transc"
+	$envmapcontrast 1
+        $basetexture "mtcuda/trans"
+        $model 1
+}

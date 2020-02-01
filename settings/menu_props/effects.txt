@@ -1,0 +1,18 @@
+"[+] Effects"
+{
+	"=Dynamic Lamp"                		"lamp"
+	"=Cannister"                		"cannister"
+	
+	"~3D Effects"	""
+	"!Breen rings"			"models/props_combine/breentp_rings.mdl"
+	"!Explode Glass"                	"models/Effects/splodeglass.mdl"
+	"!Explode"                		"models/Effects/splode.mdl"
+	"!Lightning"                		"models/Effects/splodearc.mdl"
+	"!Portal Ball"                		"models/props_combine/portalball.mdl"
+	"!Portal Funnel"                	"models/Effects/portalfunnel.mdl"
+	"!Portal Rift"                		"models/Effects/portalrift.mdl"
+	"!Portal Skydome"                	"models/props_combine/portalskydome.mdl"
+	"!Statis Shield"			"models/props_combine/stasisshield.mdl"
+	"!Statis Vortex"			"models/props_combine/stasisvortex.mdl"
+	"!Volumetric Light"                	"models/Effects/vol_light.mdl"
+}

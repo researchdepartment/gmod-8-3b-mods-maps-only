@@ -1,0 +1,28 @@
+"deadmanremote2"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model"			"models/weapons/w_stunbaton.mdl"
+	"rendercolor"		"255 0 0"
+	"spawnflags"		"256"
+	"targetname"		"deadmanbomb2_unarmed"
+
+	"Onplayeruse"		"deadmanbomb2_armed,addoutput,targetname deadmanbomb2_standby"
+	"onplayeruse"		"deadmanbomb2_unarmed,addoutput,targetname deadmanbomb2_armed,0.01"
+	"onplayeruse"		"deadmanbomb2_standby,addoutput,targetname deadmanbomb2_unarmed,0.02"
+
+	"onplayeruse"		"deadmanbomb2_armed,color,255+0+0,0.1"
+	"onplayeruse"		"deadmanbomb2_armed,color,255+255+255,1"
+
+	"OnPlayerUse"		"deadmanbomb2_unarmed,color,0+255+0,0.1"
+	"OnPlayerUse"		"deadmanbomb2_unarmed,color,255+255+255,1"
+
+	"onphysgundrop"		"deadmanbomb2_armed,ignite"
+	"onphysgundrop"		"deadmanbomb2_armed,physdamagescale,1000"
+	"onphysgundrop"		"deadmanbomb2_armed,sethealth,1"
+
+	}
+}

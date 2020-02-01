@@ -1,0 +1,246 @@
+"gmp_admin"
+{
+	"title"				"GmodPlus - Server Tools"
+	
+	"controls"
+	{
+		"button"
+		{
+		  	"label"			"Apply Changes"
+	  	  	"command"		"gm_sv_setrules"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Server Pre-set"
+	  	  	"name"			"pp_colour_presets"
+	  	  	"kvfile"		"settings/gmp_presets.txt"
+	  	  	"OpenOffsetY"	"0"
+	  	  	"multisetting"	"1"
+		}
+		"toggle"
+		{
+		  	"label"			"Cheats On/Off"
+	  	  	"name"			"sv_cheats"
+		}
+		"toggle"
+		{
+		  	"label"			"Godmode"
+	  	  	"name"			"gm_sv_playerdamage"
+		}
+		"toggle"
+		{
+		  	"label"			"Allow noclip"
+	  	  	"name"			"gm_sv_noclip"
+		}
+		"toggle"
+		{
+		  	"label"			"All weapons"
+	  	  	"name"			"gm_sv_allweapons"
+		}
+		"toggle"
+		{
+		  	"label"			"Allow NPCs"
+	  	  	"name"			"gm_sv_allownpc"
+		}
+		"toggle"
+		{
+		  	"label"			"Allow Dynamic Lights"
+	  	  	"name"			"gm_sv_allowlamps"
+		}
+		"button"
+		{
+		  	"label"			"Entity text"
+	  	  	"command"		"ent_text"
+		}
+		"toggle"
+		{
+		  	"label"			"Massreport"
+	  	  	"name"			"sv_massreport"
+		}
+		"toggle"
+		{
+		  	"label"			"Flashlight"
+	  	  	"name"			"mp_flashlight"
+		}
+
+		"toggle"
+		{
+		  	"label"			"Turbo Physics"
+	  	  	"name"			"sv_turbophysics"
+		}
+		"toggle"
+		{
+		  	"label"			"Realistic falling damage"
+	  	  	"name"			"mp_falldamage"
+		}
+		"toggle"
+		{
+		  	"label"			"Infinite aux power"
+	  	  	"name"			"sv_infinite_aux_power"
+		}
+		"toggle"
+		{
+		  	"label"			"Allow ignite"
+	  	  	"name"			"gm_sv_allowignite"
+		}
+		"toggle"
+		{
+		  	"label"			"Force respawn"
+	  	  	"name"			"mp_forcerespawn"
+		}
+		"slider"
+		{
+		  	"label"			"NPC Health Multiplier"
+	  	  	"name"			"gm_sv_npchealthmultiplier"
+	  	  	"min"			"1"
+	  	  	"max"			"20"
+	  	  	"integer"		"1"
+		}
+		"button"
+		{
+		  	"label"			"Reset Physics"
+	  	  	"command"		"sv_gravity 600; phys_timescale 1; host_timescale 1"
+		}
+		"slider"
+		{
+		  	"label"			"Gravity (def. 600)"
+	  	  	"name"			"sv_gravity"
+	  	  	"min"			"0"
+	  	  	"max"			"1000"
+	  	  	"integer"		"100"
+		}
+		"slider"
+		{
+		  	"label"			"Physspeed (def. 1)"
+	  	  	"name"			"phys_timescale"
+	  	  	"min"			"0"
+	  	  	"max"			"2"
+		}
+		"slider"
+		{
+		  	"label"			"Worldspeed (def. 1)"
+	  	  	"name"			"host_timescale"
+	  	  	"min"			"0.1"
+	  	  	"max"			"2"
+		}
+		"slider"
+		{
+		  	"label"			"Noclip Speed"
+	  	  	"name"			"sv_noclipspeed"
+	  	  	"min"			"0"
+	  	  	"max"			"10"
+	  	  	"integer"		"0.5"
+		}
+		"slider"
+		{
+		  	"label"			"Noclip Acceleration"
+	  	  	"name"			"sv_noclipaccelerate"
+	  	  	"min"			"1"
+	  	  	"max"			"10"
+		}
+		"slider"
+		{
+		  	"label"			"Item respawn time"
+	  	  	"name"			"sv_hl2mp_item_respawn_time"
+	  	  	"min"			"1"
+	  	  	"max"			"60"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Weapon respawn time"
+	  	  	"name"			"sv_hl2mp_weapon_respawn_time"
+	  	  	"min"			"1"
+	  	  	"max"			"60"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Props"
+	  	  	"name"			"gm_sv_clientlimit_props"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Ragdolls"
+	  	  	"name"			"gm_sv_clientlimit_ragdolls"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Balloons"
+	  	  	"name"			"gm_sv_clientlimit_balloons"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Thrusters"
+	  	  	"name"			"gm_sv_clientlimit_thrusters"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Effects"
+	  	  	"name"			"gm_sv_clientlimit_effects"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Sprites"
+	  	  	"name"			"gm_sv_clientlimit_sprites"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Emitters"
+	  	  	"name"			"gm_sv_clientlimit_emitters"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Wheels"
+	  	  	"name"			"gm_sv_clientlimit_wheels"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: NPCs"
+	  	  	"name"			"gm_sv_clientlimit_npcs"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Dynamites"
+	  	  	"name"			"gm_sv_clientlimit_dynamite"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+		"slider"
+		{
+		  	"label"			"Clientlimit: Vehicles"
+	  	  	"name"			"gm_sv_clientlimit_vehicles"
+	  	  	"min"			"0"
+	  	  	"max"			"100"
+	  	  	"integer"		"1"
+		}
+	}
+}

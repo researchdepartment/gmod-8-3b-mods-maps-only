@@ -1,0 +1,17 @@
+"func_combine_ball_spawner"
+{
+	"classname"			"func_combine_ball_spawner"
+	"keyvalues"
+	{
+		"targetname" "balls"
+		"parentname" "!picker"
+		"ballcount" "3"
+		"minspeed" "300.0"
+		"maxspeed" "600.0"
+		"ballradius" "20.0"
+		"balltype" "1"
+		"ballrespawntime" "1.0f"
+		//"spawnflags" "8192"
+		"model" "models/props_junk/GlassBottle01a.mdl"
+	}
+}

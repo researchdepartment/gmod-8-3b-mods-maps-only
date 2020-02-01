@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_ammo_smg1_grenade"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

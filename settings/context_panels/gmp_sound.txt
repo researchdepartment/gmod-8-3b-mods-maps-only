@@ -1,0 +1,185 @@
+"gmp_sound"
+{
+	"title"				"GmodPlus - Sound Management"
+	
+	"controls"
+	{
+		"slider"
+		{
+		  	"label"			"Sound Volume"
+	  	  	"name"			"volume"
+	  	  	"min"			"0"
+	  	  	"max"			"1"
+		}
+		"button"
+		{
+		  	"label"			"Stopsound"
+	  	  	"command"		"sv_cheats 1; stopsound; sv_cheats 0"
+		}
+		"smalltext"
+		{
+		  	"label"			"Play music:"
+		  	"tall"			"15"
+		}
+		"button"
+		{
+		  	"label"			"Intro"
+	  	  	"command"		"play music/HL2_intro.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 0"
+	  	  	"command"		"play music/HL2_song0.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 1"
+	  	  	"command"		"play music/HL2_song1.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 2"
+	  	  	"command"		"play music/HL2_song2.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 3"
+	  	  	"command"		"play music/HL2_song3.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 4"
+	  	  	"command"		"play music/HL2_song4.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 5"
+	  	  	"command"		"play music/HL2_song6.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 6"
+	  	  	"command"		"play music/HL2_song7.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 7"
+	  	  	"command"		"play music/HL2_song8.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 8"
+	  	  	"command"		"play music/HL2_song10.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 9"
+	  	  	"command"		"play music/HL2_song11.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 10"
+	  	  	"command"		"play music/HL2_song12_long.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 11"
+	  	  	"command"		"play music/HL2_song13.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 12"
+	  	  	"command"		"play music/HL2_song14.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 13"
+	  	  	"command"		"play music/HL2_song15.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 14"
+	  	  	"command"		"play music/HL2_song16.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 15"
+	  	  	"command"		"play music/HL2_song17.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 16"
+	  	  	"command"		"play music/HL2_song19.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 17 - Submix 0"
+	  	  	"command"		"play music/HL2_song20_submix0.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 18 - Submix 4"
+	  	  	"command"		"play music/HL2_song20_submix4.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 19 - Suitsong 3"
+	  	  	"command"		"play music/HL2_song23_suitsong3.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 20 - Teleporter"
+	  	  	"command"		"play music/HL2_song25_teleporter.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 21"
+	  	  	"command"		"play music/HL2_song26.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 22 - Trainstation 1"
+	  	  	"command"		"play music/HL2_song26_trainstation1.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 23 - Trainstation 2"
+	  	  	"command"		"play music/HL2_song27_trainstation2.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 24"
+	  	  	"command"		"play music/HL2_song28.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 25"
+	  	  	"command"		"play music/HL2_song29.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 26"
+	  	  	"command"		"play music/HL2_song30.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 27"
+	  	  	"command"		"play music/HL2_song31.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 28"
+	  	  	"command"		"play music/HL2_song32.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Song 29"
+	  	  	"command"		"play music/HL2_song33.mp3"
+		}
+		"button"
+		{
+		  	"label"			"Ravenholm"
+	  	  	"command"		"play music/Ravenholm_1.mp3"
+		}
+	}
+}

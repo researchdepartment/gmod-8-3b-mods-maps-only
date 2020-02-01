@@ -1,0 +1,36 @@
+"gmp_npcspawner"
+{
+	"title"				"GmodPlus - NPC Spawners"
+	
+	"controls"
+	{
+		"button"
+		{
+		  	"label"			"Enable Spawners"
+	  	  	"command"		"sv_cheats 1; ent_fire npcspawner enable; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Disable Spawners"
+	  	  	"command"		"sv_cheats 1; ent_fire npcspawner disable; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove Spawners"
+	  	  	"command"		"sv_cheats 1; ent_remove_all npcspawner; sv_cheats 0"
+		}
+		"button"
+		{
+		  	"label"			"Remove Spawned NPCs"
+	  	  	"command"		"sv_cheats 1; ent_remove_all spawnedenemy; sv_cheats 0"
+		}
+		"keyvaluecombobox"
+		{
+		  	"label"			"Make NPC Spawner"
+	  	  	"name"			"gmp_makenpcspawner"
+	  	  	"kvfile"		"settings/gmp_npcspawner.txt"
+	  	  	"OpenOffsetY"	"-200"
+	  	  	"multisetting"	"1"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "ramp1/ramp"
+        $model 1
+}

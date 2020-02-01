@@ -1,0 +1,8 @@
+"vertexLitGeneric"
+{
+        $basetexture "beetle/tex1"
+	$envmap env_cubemap
+	$envmapmask "beetle/tex1c"
+	$envmapcontrast 1
+        $model 1
+}

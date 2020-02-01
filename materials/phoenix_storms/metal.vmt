@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "phoenix_storms/metal"
+	"$surfaceprop" "metal"
+	"$bumpmap" "phoenix_storms/metal_bump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.15
+	"$envmaptint" "[ .8 .8 .9 ]"
+	//"$normalmapmask" "phoenix_storms/metalmap"
+	"$model" 1
+}
+
+

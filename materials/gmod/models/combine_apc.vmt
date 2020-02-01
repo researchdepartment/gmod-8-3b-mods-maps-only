@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/combine_apc"
+	"$vertexalpha" 1
+}

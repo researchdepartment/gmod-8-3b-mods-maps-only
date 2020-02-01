@@ -1,0 +1,15 @@
+You have no idea how much trouble these few models have caused.
+
+
+We needed our own player models so that the animations on human NPC's would work.
+
+So we compiled one and it worked apart from the 357, crossbow and gravity gun. Damn.
+
+
+So we messed up the player model right? 2 days working at the player model trying to get it
+ to work and then realised that the game was running in HL2 mode. Not HL2DM mode. This means
+ that the HL2 weapons were overriding the HL2DM models. Which we wanted to happen so that the
+ NPC animations worked. The problem was that HL2DM has these few special models so the player
+ animations work with them.. except we didn't know that.
+ 
+ Oh well.

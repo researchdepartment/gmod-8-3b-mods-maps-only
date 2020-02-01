@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "sim_icon/sim_icon"
+	"$envmapcontrast" 0
+    	"$envmapsaturation" 0
+    	"$envmap" "env_cubemap"
+    	"$envmaptint" "[ 0.3098 0.3098 0.3098 ]"
+}

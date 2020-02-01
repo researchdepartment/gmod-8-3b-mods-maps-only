@@ -1,0 +1,50 @@
+"Antidote"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/GlassBottle01a.mdl"
+	"health" "10"
+	"rendercolor" "255 255 255"
+	"renderamt" "150"
+	"MaterialOverride" "models/shadertest/shader5"
+
+	"onbreak" 	"!activator,addoutput,targetname player"
+	"onbreak" 	"!activator,addoutput,health 100"
+	"onbreak" 	"!activator,addoutput,gravity 1"
+	"onbreak" 	"!activator,color,0+0+255"
+	"onbreak" 	"!activator,sethealth 100"
+
+	"onbreak" 	"!activator,addoutput,targetname player,0.1"
+	"onbreak" 	"!activator,addoutput,health 100,0.1"
+	"onbreak" 	"!activator,addoutput,gravity 1,0.1"
+	"onbreak" 	"!activator,color,50+50+255,0.1"
+	"onbreak" 	"!activator,sethealth 100,0.1"
+
+	"onbreak" 	"!activator,addoutput,targetname player,0.2"
+	"onbreak" 	"!activator,addoutput,health 100,0.2"
+	"onbreak" 	"!activator,addoutput,gravity 1,0.2"
+	"onbreak" 	"!activator,color,100+100+255,0.2"
+	"onbreak" 	"!activator,sethealth 100,0.2"
+
+	"onbreak" 	"!activator,addoutput,targetname player,0.3"
+	"onbreak" 	"!activator,addoutput,health 100,0.3"
+	"onbreak" 	"!activator,addoutput,gravity 1,0.3"
+	"onbreak" 	"!activator,color,150+150+255,0.3"
+	"onbreak"	"!activator,sethealth 100,0.3"
+
+	"onbreak" 	"!activator,addoutput,targetname player,0.4"
+	"onbreak" 	"!activator,addoutput,health 100,0.4"
+	"onbreak"	"!activator,addoutput,gravity 1,0.4"
+	"onbreak" 	"!activator,color,200+200+255,0.4"
+	"onbreak" 	"!activator,sethealth 100,0.4"
+
+	"onbreak" 	"!activator,addoutput,targetname player,0.5"
+	"onbreak" 	"!activator,addoutput,health 100,0.5"
+	"onbreak" 	"!activator,addoutput,gravity 1,0.5"
+	"onbreak" 	"!activator,color,255+255+255,0.5"
+	"onbreak" 	"!activator,sethealth 100,0.5"
+
+	}
+}

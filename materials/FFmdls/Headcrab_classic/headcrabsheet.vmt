@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "FFmdls/headcrab_classic/headcrabsheet"
+	"$normalmapalphaenvmapmask" 1
+	"$bumpmap" "FFmdls/headcrab_classic/headcrabsheet_normal"
+	"$envmap" "env_cubemap"
+	//"$parallaxmap" "FFmdls/headcrab_classic/headcrabsheet_height" 
+	//"$parallaxmapscale" "1.5006"
+}

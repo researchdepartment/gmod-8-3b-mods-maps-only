@@ -1,0 +1,84 @@
+"gmp_utilities"
+{
+	"title"				"GmodPlus - Utilities"
+	
+	"controls"
+	{
+		"smalltext"
+		{
+			"name"			"helptext"
+		  	"label"			"Cheats has to be on for these to work."
+		  	"tall"			"20"
+		}
+		"button"
+		{
+		  	"label"			"Give all Weapons"
+	  	  	"command"		"impulse 101"
+		}
+		"button"
+		{
+		  	"label"			"Super Flashlight (toggle)"
+	  	  	"command"		"flashlight"
+		}
+		"button"
+		{
+		  	"label"			"Remove Entity"
+	  	  	"command"		"ent_remove"
+		}
+		"button"
+		{
+		  	"label"			"Lock vehicle/door"
+	  	  	"command"		"ent_fire !picker lock; warning"
+		}
+		"button"
+		{
+		  	"label"			"Unlock vehicle/door"
+	  	  	"command"		"ent_fire !picker unlock; warning"
+		}
+		"button"
+		{
+		  	"label"			"Airboat: Add gun"
+	  	  	"command"		"ent_setname airboat; wait10; ent_fire airboat enablegun 1; wait10; ent_setname usedtarget"
+		}
+		"button"
+		{
+		  	"label"			"Airboat: Remove gun"
+	  	  	"command"		"ent_setname airboat; wait10; ent_fire airboat enablegun 0; wait10; ent_setname usedtarget"
+		}
+		"smalltext"
+		{
+		  	"label"			"Spawnable entities:"
+		  	"tall"			"15"
+		}
+		"button"
+		{
+		  	"label"			"Flare"
+	  	  	"command"		"give env_flare; wait; ent_fire env_flare start burn"
+		}
+		"button"
+		{
+		  	"label"			"Sparkler"
+	  	  	"command"		"give env_spark; wait5; ent_fire env_spark startspark"
+		}
+		"button"
+		{
+		  	"label"			"Smoketrail"
+	  	  	"command"		"give env_smoketrail"
+		}
+		"button"
+		{
+		  	"label"			"Firetrail"
+	  	  	"command"		"give env_fire_trail"
+		}
+		"button"
+		{
+		  	"label"			"Thumper"
+	  	  	"command"		"give prop_thumper"
+		}
+		"button"
+		{
+		  	"label"			"Hopper"
+	  	  	"command"		"jump; give combine_bouncemine"
+		}
+	}
+}

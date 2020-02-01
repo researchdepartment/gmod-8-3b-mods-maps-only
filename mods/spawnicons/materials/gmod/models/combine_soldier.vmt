@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/combine_soldier"
+	"$vertexalpha" 1
+}

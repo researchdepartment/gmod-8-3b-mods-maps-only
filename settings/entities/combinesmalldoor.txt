@@ -1,0 +1,12 @@
+"combinedoorsmall"
+{
+
+	"classname"			"prop_dynamic"
+	"keyvalues"
+	{
+	"solid" "6"
+	"MinAnimTime" "1"
+	"MaxAnimTime" "5"
+	"model" "models/combine_gate_citizen.mdl"
+	}
+}

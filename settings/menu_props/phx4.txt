@@ -1,0 +1,17 @@
+"PHX [TRAINS]"
+ {
+	"~USABLE Trains" ""
+	"=FSD-OverRun"   			"train"
+
+	"~NOT USABLE Trains" ""
+	"FS-OverRun"                		"models\props_phx\trains\fsd-overrun.mdl"
+
+	"~Monorails" ""
+	"Monorail 1x"               	 	"models\props_phx\trains\monorail1.mdl"
+	"Monorail 2x"               	 	"models\props_phx\trains\monorail2.mdl"
+	"Monorail 4x"                		"models\props_phx\trains\monorail3.mdl"
+	"Monorail 8x"                		"models\props_phx\trains\monorail4.mdl"
+	"Monorail Arch 90°"                	"models\props_phx\trains\monorail_curve.mdl"
+	"Monorail Arch 45°"                	"models\props_phx\trains\monorail_curve2.mdl"
+
+}

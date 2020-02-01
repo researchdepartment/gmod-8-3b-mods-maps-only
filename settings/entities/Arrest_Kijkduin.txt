@@ -1,0 +1,18 @@
+"VectorZero"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/garbage_glassbottle001a.mdl"
+	"health" "10"
+	"rendercolor" "0 0 255"
+	"MaterialOverride" "gmod/shiny"
+
+	"OnBreak" "!activator,addoutput,origin 7975 9250 -1975"
+	"OnBreak" "!activator,addoutput,origin 7975 9250 -1975,0.1"
+	"OnBreak" "!activator,addoutput,origin 7975 9250 -1975,0.5"
+	"OnBreak" "!activator,addoutput,origin 7975 9250 -1975,1"
+	"OnBreak" "!activator,addoutput,origin 7975 9250 -1975,3"
+	}
+}

@@ -1,0 +1,56 @@
+"Role-Play Items II"
+ {
+	"~Explosives" ""
+
+ 	"=Classic Bomb"			"TehBomb"
+ 	"=Classic Boobytrap"		"Boobytrap"
+	"=Deadman Bomb 1"		"deadmanbomb1"
+	"=Deadman Bomb 2"		"deadmanbomb2"
+	"=Deadman Bomb 3"		"deadmanbomb3"
+ 	"=Press Any Key"		"pressanykey"
+ 	"=Keyhole Detonator"		"keyholedetonator"
+	"=ThermalDet 3-Sec"		"ThermalDetonator3"
+	"=ThermalDet 6-Sec"		"ThermalDetonator6"
+	"=ThermalDet 15-Sec"		"ThermalDetonator15"
+
+	"~Teleportation" ""
+
+	"=Cargtown Arrest"		"Arrest_cargtown"
+	"=Goobcity Arrest"		"Arrest_goobcity"
+	"=Hometown Arrest"		"Arrest_hometown"
+	"=Kijkduin Arrest"		"Arrest_Kijkduin"
+	"=Oviscity Arrest"		"Arrest_OVCT"
+	"=Zero-Vector"			"VectorZero"
+
+	"~Voodoo" ""
+
+	"=Voodoo Doll 1"		"voodoofreq1"
+	"=Voodoo Doll 2"		"voodoofreq2"
+	"=Voodoo Doll 3"		"voodoofreq3"
+
+	"=Curse-Blob 1"			"cursefreq1"
+	"=Curse-Blob 2"			"cursefreq2"
+	"=Curse-Blob 3"			"cursefreq3"
+
+	"=Voodoo Candle"		"candleofburning"
+	"=Voodoo Dagger"		"daggerofstabbing"
+	"=Voodoo Stunstick"		"stunstickofparalysis"
+	"=Voodoo Skull"			"skullofclumsyness"
+
+	"~Edibles/drinkables" ""
+
+	"=Antidote"			"antidote"
+	"=Stealth"			"stealth"
+	"=Health Melon"			"healthmelon"
+	"=Moonshine"			"moonshine"
+	"=Pyromania"			"pyromania"
+	"=Orange Bull"			"orangebull"
+	"=Poison"			"poison"
+	"=Poison_Radius"			"Poison_radius"
+	"=Poison_Radius"			"poison_strong"
+	"=Lamer"			"lamer"
+	"=Liquid Nitrogen"		"liquidnitrogen"
+	"=Molotov Coctail"		"molotov"
+
+
+}

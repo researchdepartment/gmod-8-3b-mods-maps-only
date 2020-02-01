@@ -1,0 +1,5 @@
+"UnlitGeneric" 
+{ 
+	"$baseTexture" "gmod\models\items\combine_rifle_ammo01" 
+	"$vertexalpha" 1 
+} 

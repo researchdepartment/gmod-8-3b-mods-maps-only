@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/stargate/stargate2"
+	"$vertexalpha" 1
+}

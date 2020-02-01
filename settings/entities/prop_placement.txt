@@ -1,0 +1,10 @@
+"Jeep"
+{
+	"classname"			"prop_placement"
+	"type"				"effect"
+	
+	"keyvalues"
+	{
+		"targetname" "prop_placement"
+	}
+}

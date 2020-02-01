@@ -1,0 +1,102 @@
+// .vmf files!
+
+"gmp_models.txt"
+{
+	"Playermodel - Alyx"
+	{
+		"setmodel" "models/player/alyx.mdl"
+	}
+	"Playermodel - Barney"
+	{
+		"setmodel" "models/player/barney.mdl"
+	}
+	"Playermodel - Breen"
+	{
+		"setmodel" "models/player/breen.mdl"
+	}
+	"Playermodel - Charple"
+	{
+		"setmodel" "models/player/charple01.mdl"
+	}
+	"Playermodel - Zombie"
+	{
+		"setmodel" "models/player/classic.mdl"
+	}
+	"Playermodel - Combine Soldier"
+	{
+		"setmodel" "models/player/combine_soldier.mdl"
+	}
+	"Playermodel - Combine Prisonguard"
+	{
+		"setmodel" "models/player/combine_soldier_prisonguard.mdl"
+	}
+	"Playermodel - Combine Elite"
+	{
+		"setmodel" "models/player/combine_super_soldier.mdl"
+	}
+	"Playermodel - Corpse"
+	{
+		"setmodel" "models/player/corpse1.mdl"
+	}
+	"Playermodel - Eli"
+	{
+		"setmodel" "models/player/eli.mdl"
+	}
+	"Playermodel - G-Man"
+	{
+		"setmodel" "models/player/gman_high.mdl"
+	}
+	"Playermodel - Gordon Classic"
+	{
+		"setmodel" "models/player/gordon_classic.mdl"
+	}
+	"Playermodel - Kleiner"
+	{
+		"setmodel" "models/player/kleiner.mdl"
+	}
+	"Playermodel - Monk"
+	{
+		"setmodel" "models/player/monk.mdl"
+	}
+	"Playermodel - Mossman"
+	{
+		"setmodel" "models/player/mossman.mdl"
+	}
+	"Playermodel - Odessa"
+	{
+		"setmodel" "models/player/Odessa.mdl"
+	}
+	"Playermodel - Police"
+	{
+		"setmodel" "models/player/police.mdl"
+	}
+	"Playermodel - Stripped Soldier"
+	{
+		"setmodel" "models/player/stripped.mdl"
+	}
+
+	"Playermodel - Male 02"
+	{
+		"setmodel" "models/player/male_02.mdl"
+	}
+	"Playermodel - Male 03"
+	{
+		"setmodel" "models/player/male_03.mdl"
+	}
+	"Playermodel - Male 08"
+	{
+		"setmodel" "models/player/male_08.mdl"
+	}
+	"Playermodel - Female 04"
+	{
+		"setmodel" "models/player/female_04.mdl"
+	}
+	"Playermodel - Female 06"
+	{
+		"setmodel" "models/player/female_06.mdl"
+	}
+	"Playermodel - Female 07"
+	{
+		"setmodel" "models/player/female_07.mdl"
+	}
+}

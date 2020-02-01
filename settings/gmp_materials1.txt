@@ -1,0 +1,61 @@
+// .vmf files!
+
+"gmp_materials1.txt"
+{
+	"Metal ladder 1"
+	{
+		"gm_matmode" "18"
+	}
+	"Metal ladder 2"
+	{
+		"gm_matmode" "19"
+	}
+	"Metal ladder 3"
+	{
+		"gm_matmode" "20"
+	}
+	"Metalwall 1"
+	{
+		"gm_matmode" "21"
+	}
+	"Metalwall 2"
+	{
+		"gm_matmode" "22"
+	}
+	"Combine metal"
+	{
+		"gm_matmode" "23"
+	}
+	"Furniture metal 1"
+	{
+		"gm_matmode" "24"
+	}
+	"Furniture metal 2"
+	{
+		"gm_matmode" "25"
+	}
+	"MetalFence"
+	{
+		"gm_matmode" "26"
+	}
+	"Metalpipe 1"
+	{
+		"gm_matmode" "27"
+	}
+	"Metalpipe 2"
+	{
+		"gm_matmode" "28"
+	}
+	"Guttermetal"
+	{
+		"gm_matmode" "29"
+	}
+	"Metal tram"
+	{
+		"gm_matmode" "30"
+	}
+	"Metalcrate"
+	{
+		"gm_matmode" "31"
+	}
+}

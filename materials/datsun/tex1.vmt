@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "datsun/tex1"
+        $model 1
+}

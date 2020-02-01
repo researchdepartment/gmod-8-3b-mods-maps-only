@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "phoenix_storms/trucktire"
+	"$surfaceprop" "metal"
+	"$selfillum" 0
+	"$model" 1
+}
+
+

@@ -1,0 +1,47 @@
+"gmp_lasers_width.txt"
+{
+	"Width: 0"
+	{
+		"gmp_laserwidth_0" 		""
+	}
+	"Width: 1"
+	{
+		"gmp_laserwidth_1" 		""
+	}
+	"Width: 2"
+	{
+		"gmp_laserwidth_2" 		""
+	}
+	"Width: 3"
+	{
+		"gmp_laserwidth_3" 		""
+	}
+	"Width: 4"
+	{
+		"gmp_laserwidth_4" 		""
+	}
+	"Width: 5"
+	{
+		"gmp_laserwidth_5" 		""
+	}
+	"Width: 6"
+	{
+		"gmp_laserwidth_6" 		""
+	}
+	"Width: 7"
+	{
+		"gmp_laserwidth_7" 		""
+	}
+	"Width: 8"
+	{
+		"gmp_laserwidth_8" 		""
+	}
+	"Width: 9"
+	{
+		"gmp_laserwidth_9" 		""
+	}
+	"Width: 10"
+	{
+		"gmp_laserwidth_10" 		""
+	}
+}

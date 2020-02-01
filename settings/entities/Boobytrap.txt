@@ -1,0 +1,29 @@
+"Boobytrap"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_debris/wood_board01a.mdl
+	"health" "1000"
+	"physdamagescale" "0.01"
+	"rendercolor" "75 75 25"
+	"explodedamage" "1000"
+	"exploderadius" "500"
+	"spawnflags" "256"
+
+	"onplayeruse" "!self,color,255"
+	"onplayeruse" "!self,color,255+255+255,1"
+	"onplayeruse" "!self,color,0+0+0,2"
+	"onplayeruse" "!self,addoutput,MaterialOverride Models/effects/vol_light001,3"
+	"onplayeruse" "!self,disableshadow,1,3"
+	"onplayeruse" "!self,sethealth,1,3"
+	"onplayeruse" "!self,physdamagescale,1000,3"
+
+	"onphysgunpickup" "!self,addoutput,MaterialOVerride gmod/shiny"
+	"onphysgunpickup" "!self,color,255"
+
+	"onphysgundrop" "!self,color,75+75+25"
+
+	}
+}

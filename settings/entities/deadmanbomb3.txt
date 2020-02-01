@@ -1,0 +1,32 @@
+"deadmanbomb3"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+
+	"model"			"models/props/cs_office/radio.mdl"
+	"health"		"1000"
+	"physdamagescale"	"0.01"
+	"rendercolor"		"255 255 255"
+	"explodedamage"		"500"
+	"exploderadius"		"500"
+	"spawnflags"		"256"
+	"targetname"		"deadmanbomb3_unarmed"
+
+	"Onplayeruse"		"deadmanbomb3_armed,addoutput,targetname deadmanbomb3_standby"
+	"onplayeruse"		"deadmanbomb3_unarmed,addoutput,targetname deadmanbomb3_armed,0.01"
+	"onplayeruse"		"deadmanbomb3_standby,addoutput,targetname deadmanbomb3_unarmed,0.02"
+
+	"onplayeruse"		"deadmanbomb3_armed,color,255+0+0,0.1"
+	"onplayeruse"		"deadmanbomb3_armed,color,255+255+255,1"
+
+	"OnPlayerUse"		"deadmanbomb3_unarmed,color,0+255+0,0.1"
+	"OnPlayerUse"		"deadmanbomb3_unarmed,color,255+255+255,1"
+
+	"onphysgundrop"		"deadmanbomb3_armed,ignite"
+	"onphysgundrop"		"deadmanbomb3_armed,physdamagescale,1000"
+	"onphysgundrop"		"deadmanbomb3_armed,sethealth,1"
+
+	}
+}

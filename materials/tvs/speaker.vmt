@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "tvs/speaker"
+        $model 1
+}

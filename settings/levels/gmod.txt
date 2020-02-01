@@ -1,0 +1,21 @@
+
+// Please Please Please Please Please Create your own category for maps
+// for your mimimod - overriding this file will cause a shit load of 
+// problems for me (and probably you) in later updates.
+
+// Simply name your levels file <yourmodname>.txt
+
+"Garry's Mod"
+{
+	"GM_Construct"
+	{
+		"map"		"gm_construct"
+		"material"	"vgui/chapters/gm_construct"
+		"credits"	"Garry Newman"
+	}
+	"GM10_Construct"
+	{
+		"map"		"gm10_construct"
+		"material"	"vgui/chapters/gm_construct"
+		"credits"	"Garry Newman, 1/4 Life"
+	}

@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "vidcam/cam"
+        $model 1
+}

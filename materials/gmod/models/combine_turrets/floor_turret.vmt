@@ -1,0 +1,4 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/models/combine_turrets/floor_turret"	"$vertexalpha" 1
+}

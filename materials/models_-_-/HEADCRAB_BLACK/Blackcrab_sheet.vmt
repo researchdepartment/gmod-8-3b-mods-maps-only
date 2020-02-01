@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "FFmdls/Headcrab_black/Blackcrab_sheet"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$bumpmap" "FFmdls/headcrab_black/blackcrab_sheet_normal"
+	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "FFmdls/Humans/Male/dark_eyeball_r"
+	"$iris" "FFmdls/Humans/Male/pupil_r"
+	"$halflambert" 1
+}

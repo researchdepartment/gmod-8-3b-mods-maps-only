@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "money/money1"
+        $model 1
+}

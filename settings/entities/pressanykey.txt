@@ -1,0 +1,23 @@
+"PressAnyKey"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props/cs_office/computer_keyboard.mdl"
+	"health" "1000"
+	"physdamagescale" "0.01"
+	"rendercolor" "255 255 255"
+	"explodedamage" "1000"
+	"exploderadius" "100"
+	"spawnflags" "0"
+
+	"onhealthchanged" "!self,addoutput,spawnflags 256"
+	"onhealthchanged" "!self,color,255"
+
+	"onplayeruse" "!self,physdamagescale,100"
+	"onplayeruse" "!self,sethealth,1"
+	"onplayeruse" "!self,ignite"
+
+	}
+}

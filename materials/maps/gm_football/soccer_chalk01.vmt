@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "maps/gm_football/soccer_chalk01"
+	"$surfaceprop" "grass"
+}

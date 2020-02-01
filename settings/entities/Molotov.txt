@@ -1,0 +1,15 @@
+"Molotov"
+{
+	"classname"			"prop_physics"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"model" "models/props_junk/GlassBottle01a.mdl"
+	"health" "10"
+	"rendercolor" "255"
+	"ExplodeDamage" "5"
+	"ExplodeRadius" "150"
+
+	"OnBreak" "!activator,Ignite,,0,-1"
+	}
+}

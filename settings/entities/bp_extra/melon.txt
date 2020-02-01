@@ -1,0 +1,21 @@
+"Jeep"
+{
+	"classname"			"prop_physics_override"
+	"type"				"prop"
+	"keyvalues"
+	{
+	"spawnflags" "256"
+	"physdamagescale" "0.3"
+	"inertiaScale" "1.0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_junk/watermelon01.mdl"
+	"skin" "0"
+	"massScale" "0"
+	"ExplodeDamage" "50"
+	"ExplodeRadius" "512"
+	"minhealthdmg" "0"
+	"health" "1"
+	"rendercolor" "255 0 0"
+	}
+}

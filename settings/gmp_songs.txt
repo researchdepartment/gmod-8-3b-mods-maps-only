@@ -1,0 +1,135 @@
+"gmp_songs.txt"
+{
+	"Play song: (NONE)"
+	{
+		"play" "music/gmp_none.wav"
+	}
+	"Play song: HL2_Intro.mp3"
+	{
+		"play" "music/HL2_intro.mp3"
+	}
+	"Play song: HL2_song0.mp3"
+	{
+		"play" "music/HL2_song0.mp3"
+	}
+	"Play song: HL2_song1.mp3"
+	{
+		"play" "music/HL2_song1.mp3"
+	}
+	"Play song: HL2_song2.mp3"
+	{
+		"play" "music/HL2_song2.mp3"
+	}
+	"Play song: HL2_song3.mp3"
+	{
+		"play" "music/HL2_song3.mp3"
+	}
+	"Play song: HL2_song4.mp3"
+	{
+		"play" "music/HL2_song4.mp3"
+	}
+	"Play song: HL2_song6.mp3"
+	{
+		"play" "music/HL2_song6.mp3"
+	}
+	"Play song: HL2_song7.mp3"
+	{
+		"play" "music/HL2_song7.mp3"
+	}
+	"Play song: HL2_song8.mp3"
+	{
+		"play" "music/HL2_song8.mp3"
+	}
+	"Play song: HL2_song10.mp3"
+	{
+		"play" "music/HL2_song10.mp3"
+	}
+	"Play song: HL2_song11.mp3"
+	{
+		"play" "music/HL2_song11.mp3"
+	}
+	"Play song: HL2_song12_long.mp3"
+	{
+		"play" "music/HL2_song12_long.mp3"
+	}
+	"Play song: HL2_song13.mp3"
+	{
+		"play" "music/HL2_song13.mp3"
+	}
+	"Play song: HL2_song14.mp3"
+	{
+		"play" "music/HL2_song14.mp3"
+	}
+	"Play song: HL2_song15.mp3"
+	{
+		"play" "music/HL2_song15.mp3"
+	}
+	"Play song: HL2_song16.mp3"
+	{
+		"play" "music/HL2_song16.mp3"
+	}
+	"Play song: HL2_song17.mp3"
+	{
+		"play" "music/HL2_song17.mp3"
+	}
+	"Play song: HL2_song19.mp3"
+	{
+		"play" "music/HL2_song19.mp3"
+	}
+	"Play song: HL2_song20_submix0.mp3"
+	{
+		"play" "music/HL2_song20_submix0.mp3"
+	}
+	"Play song: HL2_song20_submix4.mp3"
+	{
+		"play" "music/HL2_song20_submix4.mp3"
+	}
+	"Play song: HL2_song23_suitsong3.mp3"
+	{
+		"play" "music/HL2_song23_suitsong3.mp3"
+	}
+	"Play song: HL2_song25_teleporter.mp3"
+	{
+		"play" "music/HL2_song25_teleporter.mp3"
+	}
+	"Play song: HL2_song26.mp3"
+	{
+		"play" "music/HL2_song26.mp3"
+	}
+	"Play song: HL2_song26_trainstation1.mp3"
+	{
+		"play" "music/HL2_song26_trainstation1.mp3"
+	}
+	"Play song: HL2_song27_trainstation1.mp3"
+	{
+		"play" "music/HL2_song27_trainstation2.mp3"
+	}
+	"Play song: HL2_song28.mp3"
+	{
+		"play" "music/HL2_song28.mp3"
+	}
+	"Play song: HL2_song29.mp3"
+	{
+		"play" "music/HL2_song29.mp3"
+	}
+	"Play song: HL2_song30.mp3"
+	{
+		"play" "music/HL2_song30.mp3"
+	}
+	"Play song: HL2_song31.mp3"
+	{
+		"play" "music/HL2_song31.mp3"
+	}
+	"Play song: HL2_song32.mp3"
+	{
+		"play" "music/HL2_song32.mp3"
+	}
+	"Play song: HL2_song33.mp3"
+	{
+		"play" "music/HL2_song33.mp3"
+	}
+	"Play song: Ravenholm_1.mp3"
+	{
+		"play" "music/Ravenholm_1.mp3"
+	}
+}

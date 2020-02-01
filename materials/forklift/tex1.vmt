@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "forklift/tex1"
+        $model 1
+}

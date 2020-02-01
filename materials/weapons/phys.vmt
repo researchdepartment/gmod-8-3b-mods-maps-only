@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "weapons/phys"
+	"$selfillum" "1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Models/Weapons/V_physcannon/v_physcannon_mask"
+	"$envmapcontrast" "1.7"
+	"$envmapsaturation" "[1.8 1.8 1.8]"
+
+
+}
+	

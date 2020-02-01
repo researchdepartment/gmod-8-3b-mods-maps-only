@@ -1,0 +1,27 @@
+"gmp_lasers_noise.txt"
+{
+	"Noise: 0"
+	{
+		"gmp_lasernoise_0" 		""
+	}
+	"Noise: 2"
+	{
+		"gmp_lasernoise_1" 		""
+	}
+	"Noise: 4"
+	{
+		"gmp_lasernoise_2" 		""
+	}
+	"Noise: 6"
+	{
+		"gmp_lasernoise_3" 		""
+	}
+	"Noise: 8"
+	{
+		"gmp_lasernoise_4" 		""
+	}
+	"Noise: 10"
+	{
+		"gmp_lasernoise_5" 		""
+	}
+}

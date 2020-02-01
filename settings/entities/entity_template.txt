@@ -1,0 +1,12 @@
+"Jeep"
+{
+
+	"classname"			"classname"
+	"type"				"vehicle/effect/prop/ragdoll"
+	
+	"keyvalues"
+	{
+		"key"		"value"
+	}
+	
+}

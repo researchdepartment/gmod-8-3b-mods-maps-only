@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "FFmdls/Kleiner/walter_face"
+	"$bumpmap" "FFmdls/Kleiner/walter_face_normal"
+//	"$parallaxmap" "FFmdls/Kleiner/walter_face_height"
+//	"$parallaxmapscale" ".3844"
+	//"$envmapsphere" 1
+	"$halflambert" 1
+}

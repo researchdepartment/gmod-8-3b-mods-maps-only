@@ -1,0 +1,31 @@
+"gmp_lasers_color.txt"
+{
+	"Colour: White"
+	{
+		"gmp_lasercolor_white" 		""
+	}
+	"Colour: Red"
+	{
+		"gmp_lasercolor_red" 		""
+	}
+	"Colour: Yellow"
+	{
+		"gmp_lasercolor_yellow" 		""
+	}
+	"Colour: Green"
+	{
+		"gmp_lasercolor_green" 		""
+	}
+	"Colour: Cyan"
+	{
+		"gmp_lasercolor_cyan" 		""
+	}
+	"Colour: Blue"
+	{
+		"gmp_lasercolor_blue" 		""
+	}
+	"Colour: Pink"
+	{
+		"gmp_lasercolor_pink" 		""
+	}
+}

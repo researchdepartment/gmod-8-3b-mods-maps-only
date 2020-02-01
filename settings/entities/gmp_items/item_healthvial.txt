@@ -1,0 +1,9 @@
+"Jeep"
+{
+	"classname"			"item_healthvial"
+	"type"				"effect"
+	"keyvalues"
+	{
+
+	}
+}

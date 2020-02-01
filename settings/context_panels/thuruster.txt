@@ -1,0 +1,202 @@
+"thruster"
+{
+	"title"				"Thruster Mode Settings"
+	"resourcefile"		"resource/ui/context_thrust.res" 
+	
+	"controls"
+	{
+		"button"
+		{
+			"name"			"tb_0"
+		  	"label"			"0"
+	  	  	"command"		"thrustset0"
+		}
+
+		"button"
+		{
+			"name"			"tb_1"
+		  	"label"			"1"
+	  	  	"command"		"thrustset1"
+		}
+		
+		"button"
+		{
+			"name"			"tb_2"
+		  	"label"			"2"
+	  	  	"command"		"thrustset2"
+		}
+		
+		"button"
+		{
+			"name"			"tb_3"
+		  	"label"			"3"
+	  	  	"command"		"thrustset3"
+		}
+		
+		"button"
+		{
+			"name"			"tb_4"
+		  	"label"			"4"
+	  	  	"command"		"thrustset4"
+		}
+		
+		"button"
+		{
+			"name"			"tb_5"
+		  	"label"			"5"
+	  	  	"command"		"thrustset5"
+		}
+		
+		"button"
+		{
+			"name"			"tb_6"
+		  	"label"			"6"
+	  	  	"command"		"thrustset6"
+		}
+		
+		"button"
+		{
+			"name"			"tb_7"
+		  	"label"			"7"
+	  	  	"command"		"thrustset7"
+		}
+		
+		"button"
+		{
+			"name"			"tb_8"
+		  	"label"			"8"
+	  	  	"command"		"thrustset8"
+		}
+	
+		"button"
+		{
+			"name"			"tb_9"
+		  	"label"			"9"
+	  	  	"command"		"thrustset9"
+		}
+		
+		"slider"
+		{			
+		  	"label"			"Thruster Power"
+	  	  	"name"			"gm_thrust_power"
+	  	  	"min"			"1"
+	  	  	"max"			"30000"
+		}
+		
+		"toggle"
+		{			
+		  	"label"			"Play Thruster Sounds"
+	  	  	"name"			"gm_thruster_sounds"
+		}
+		"button"
+		{
+			"name"			"power_up1"
+		  	"label"			"+1"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 1"
+		}
+		"button"
+		{
+			"name"			"power_up5"
+		  	"label"			"+5"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 5"
+		}
+		"button"
+		{
+			"name"			"power_up10"
+		  	"label"			"+10"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 10"
+		}
+		"button"
+		{
+			"name"			"power_up100"
+		  	"label"			"+100"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 100"
+		}
+		"button"
+		{
+			"name"			"power_dn1"
+		  	"label"			"-1"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 -1"
+		}
+		"button"
+		{
+			"name"			"power_dn5"
+		  	"label"			"-5"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 -5"
+		}
+		"button"
+		{
+			"name"			"power_dn10"
+		  	"label"			"-10"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 -10"
+		}
+		"button"
+		{
+			"name"			"power_dn100"
+		  	"label"			"-100"
+	  	  	"command"		"incrementvar gm_thrust_power 1 30000 -100"
+		}
+		"button"
+		{
+			"name"			"thrustset1"
+		  	"label"			"1"
+	  	  	"command"		"exec GmodPlus/thrustset1.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset2"
+		  	"label"			"2"
+	  	  	"command"		"exec GmodPlus/thrustset2.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset3"
+		  	"label"			"3"
+	  	  	"command"		"exec GmodPlus/thrustset3.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset4"
+		  	"label"			"4"
+	  	  	"command"		"exec GmodPlus/thrustset4.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset5"
+		  	"label"			"5"
+	  	  	"command"		"exec GmodPlus/thrustset5.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset6"
+		  	"label"			"6"
+	  	  	"command"		"exec GmodPlus/thrustset6.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset7"
+		  	"label"			"7"
+	  	  	"command"		"exec GmodPlus/thrustset7.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset8"
+		  	"label"			"8"
+	  	  	"command"		"exec GmodPlus/thrustset8.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset9"
+		  	"label"			"9"
+	  	  	"command"		"exec GmodPlus/thrustset9.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		"button"
+		{
+			"name"			"thrustset10"
+		  	"label"			"10"
+	  	  	"command"		"exec GmodPlus/thrustset10.cfg; play vehicles/atv_ammo_open.wav"
+		}
+		
+	}
+}
+

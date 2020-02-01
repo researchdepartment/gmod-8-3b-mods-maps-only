@@ -1,0 +1,26 @@
+"gmp_presets.txt"
+{
+	"Srv Preset - Default"
+	{
+		"exec"		"GmodPlus/srv_presets/default.cfg"
+	} 
+
+	"Srv Preset - Anti-spam"
+	{
+		"exec"		"GmodPlus/srv_presets/antispam.cfg"
+	}
+
+	"Srv Preset - Deathmatch"
+	{
+		"exec"		"GmodPlus/srv_presets/deathmatch.cfg"
+	}
+
+	"Srv Preset - Singleplayer"
+	{
+		"exec"		"GmodPlus/srv_presets/singleplayer.cfg"
+	}
+	"Srv Preset - Favorite"
+	{
+		"exec"		"GmodPlus/srv_presets/Favorite.cfg"
+	}
+}

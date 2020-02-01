@@ -1,0 +1,26 @@
+"Explosives"
+{
+	"~Morgan G [MG]"	"1"
+	
+
+       "~Dynamites"	"1"
+	"Dynamite"				"models/MgModels/dyn.mdl"
+	"Timer Dynamite"				"models/MgModels/bo.mdl"
+        
+	
+      
+       "~Radioactive Stuff"	"1"
+       "Nuclear bomb"				"models/MgModels/nu.mdl"  
+       "V2"				"models/MgModels/v2.mdl"  
+       "Radioactive Crate"				"models/MgModels/ra.mdl" 
+   
+        
+	"~Other Bombs"	"1"
+
+        "Pipe Bomb"				"models/MgModels/pipe.mdl"
+        "Semtex-H"				"models/MgModels/sem.mdl"
+        "Mine"				"models/MgModels/mi.mdl"
+        "Round Bomb"				"models/MgModels/ro.mdl" 
+        "Missile"				"models/MgModels/na.mdl"      
+        "Light Stick"				"models/MgModels/sl.mdl"
+}

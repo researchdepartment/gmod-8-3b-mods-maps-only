@@ -1,0 +1,27 @@
+"gmp_prop_skin.txt"
+{
+	"Physical damagescale - 0.00"
+	{
+		"ent_fire" "!picker physdamagescale 0.00"
+	}
+	"Physical Damagescale - 1.00"
+	{
+		"ent_fire" "!picker physdamagescale 1.00"
+	}
+	"Physical Damagescale - 10.00"
+	{
+		"ent_fire" "!picker physdamagescale 10.00"
+	}
+	"Physical Damagescale - 100.00"
+	{
+		"ent_fire" "!picker physdamagescale 10.00"
+	}
+	"Physical Damagescale - 1000.00"
+	{
+		"ent_fire" "!picker physdamagescale 10.00"
+	}
+	"Physical Damagescale - 10000.00"
+	{
+		"ent_fire" "!picker physdamagescale 10000.00"
+	}
+}
