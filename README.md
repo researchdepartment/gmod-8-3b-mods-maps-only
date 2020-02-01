@@ -8,11 +8,14 @@ https://web.archive.org/web/20160819143930/https://facepunch.com/showthread.php?
 all of this might be completely and horribly broken as far as i know
 
 
-**Mod Credits**
-
+**Known Credits**
 * Tom's Spawn Menu Icons - Adds icons to the spawn menu (Tom Wiseman)
 * Dav0rs Quick Pack - (Dav0r)
 * rp_oviscity_b3 - Ovi on gamebanana.com
+* rp_hometown1999 and tdm_hometown1999 - F.Kalkman
+* GmodPlus - author unknown
+
+
 * everything by everyone else
 
 
