@@ -10,10 +10,10 @@ all of this might be completely and horribly broken as far as i know
 
 **Known Credits**
 * Tom's Spawn Menu Icons - Adds icons to the spawn menu (Tom Wiseman)
-* Dav0rs Quick Pack - (Dav0r)
+* Dav0rs Quick Pack - Dav0r
 * rp_oviscity_b3 - Ovi on gamebanana.com
 * rp_hometown1999 and tdm_hometown1999 - F.Kalkman
-* GmodPlus - author unknown
+* GmodPlus - ReaperSWE
 
 
 * everything by everyone else
